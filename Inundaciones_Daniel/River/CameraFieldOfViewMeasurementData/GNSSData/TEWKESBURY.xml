@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.2 http://www.landxml.org/schema/LandXML-1.2/LandXML-1.2.xsd" version="1.2" date="2018-04-20" time="12:06:53" readOnly="false" language="English">
+<Units>
+<Metric linearUnit="meter" areaUnit="squareMeter" volumeUnit="cubicMeter" angularUnit="decimal dd.mm.ss" latLongAngularUnit="decimal degrees" temperatureUnit="celsius" pressureUnit="milliBars"/>
+</Units>
+<CoordinateSystem name="OSGB36(15)" horizontalDatum="Local" verticalDatum="Local" ellipsoidName="GRS 1980" projectedCoordinateSystemName="UKTM" fileLocation="">
+</CoordinateSystem>
+<Application name="Smartworx Viva LandXML Export" manufacturer="Leica Geosystems AG" version="5.70" manufacturerURL="www.leica-geosystems.com">
+<Author company="Leica Geosystems AG" companyURL="www.leica-geosystems.com" timeStamp="2018-04-20T12:06:53"/>
+</Application>
+<CgPoints>
+<CgPoint name="T22   " oID="T22   " role="measured" latitude="51.998807503181169" longitude="-2.155135675174674" ellipsoidHeight="60.140222" timeStamp="2018-04-17T09:54:20">233384.190815 389445.611384 10.999140</CgPoint>
+<CgPoint name="T21   " oID="T21   " role="measured" latitude="51.998764207874693" longitude="-2.155281329828515" ellipsoidHeight="60.393454" timeStamp="2018-04-17T09:52:26">233379.396731 389435.601358 11.252078</CgPoint>
+<CgPoint name="T20   " oID="T20   " role="measured" latitude="51.998702617720284" longitude="-2.155266692277691" ellipsoidHeight="60.395779" timeStamp="2018-04-17T09:51:23">233372.544227 389436.591668 11.254467</CgPoint>
+<CgPoint name="RTCM-Ref 0179" oID="RTCM-Ref 0179" latitude="52.251813367140969" longitude="-2.197940416266568" ellipsoidHeight="87.076941" timeStamp="2018-04-17T09:49:49">261532.275780 386583.824631 37.471954</CgPoint>
+<CgPoint name="T19   " oID="T19   " role="measured" latitude="51.998662357080306" longitude="-2.155255756403388" ellipsoidHeight="60.397265" timeStamp="2018-04-17T09:47:40">233368.064638 389437.332907 11.255999</CgPoint>
+<CgPoint name="T18   " oID="T18   " role="measured" latitude="51.998666461630464" longitude="-2.155244526923954" ellipsoidHeight="59.930346" timeStamp="2018-04-17T09:46:57">233368.519513 389438.104830 10.789103</CgPoint>
+<CgPoint name="T17   " oID="T17   " role="measured" latitude="51.998630646599118" longitude="-2.155285670351921" ellipsoidHeight="61.163759" timeStamp="2018-04-17T09:45:46">233364.542050 389435.271668 12.022448</CgPoint>
+<CgPoint name="T16   " oID="T16   " role="measured" latitude="51.998619732002616" longitude="-2.155282172671589" ellipsoidHeight="60.088942" timeStamp="2018-04-17T09:45:19">233363.327561 389435.509208 10.947646</CgPoint>
+<CgPoint name="T15   " oID="T15   " role="measured" latitude="51.998586705583421" longitude="-2.155268008717519" ellipsoidHeight="59.947363" timeStamp="2018-04-17T09:42:06">233359.652122 389436.473785 10.806113</CgPoint>
+<CgPoint name="T14   " oID="T14   " role="measured" latitude="51.998483951869886" longitude="-2.155353572392182" ellipsoidHeight="61.145894" timeStamp="2018-04-17T09:40:33">233348.235960 389430.575085 12.004517</CgPoint>
+<CgPoint name="T13   " oID="T13   " role="measured" latitude="51.998547138394116" longitude="-2.155401873274545" ellipsoidHeight="59.875038" timeStamp="2018-04-17T09:39:52">233355.270978 389427.274027 10.733520</CgPoint>
+<CgPoint name="T12   " oID="T12   " role="measured" latitude="51.998545230235749" longitude="-2.155404037659198" ellipsoidHeight="60.028618" timeStamp="2018-04-17T09:39:32">233355.059063 389427.124980 10.887096</CgPoint>
+<CgPoint name="T11   " oID="T11   " role="measured" latitude="51.998542820200939" longitude="-2.155406166117379" ellipsoidHeight="60.179424" timeStamp="2018-04-17T09:39:09">233354.791321 389426.978279 11.037899</CgPoint>
+<CgPoint name="T10   " oID="T10   " role="measured" latitude="51.998540650348630" longitude="-2.155408742036072" ellipsoidHeight="60.328114" timeStamp="2018-04-17T09:38:44">233354.550359 389426.800916 11.186585</CgPoint>
+<CgPoint name="T09   " oID="T09   " role="measured" latitude="51.998538427283371" longitude="-2.155411376307328" ellipsoidHeight="60.476169" timeStamp="2018-04-17T09:38:26">233354.303487 389426.619534 11.334636</CgPoint>
+<CgPoint name="T08   " oID="T08   " role="measured" latitude="51.998536375326111" longitude="-2.155414036749733" ellipsoidHeight="60.627013" timeStamp="2018-04-17T09:38:06">233354.075650 389426.436396 11.485477</CgPoint>
+<CgPoint name="T07   " oID="T07   " role="measured" latitude="51.998534058539072" longitude="-2.155417003213577" ellipsoidHeight="60.774474" timeStamp="2018-04-17T09:37:39">233353.818403 389426.232186 11.632930</CgPoint>
+<CgPoint name="T06   " oID="T06   " role="measured" latitude="51.998531920129167" longitude="-2.155419267465691" ellipsoidHeight="60.923367" timeStamp="2018-04-17T09:37:16">233353.580892 389426.076227 11.781819</CgPoint>
+<CgPoint name="T05   " oID="T05   " role="measured" latitude="51.998529876161889" longitude="-2.155422143542445" ellipsoidHeight="61.080158" timeStamp="2018-04-17T09:36:52">233353.353976 389425.878287 11.938606</CgPoint>
+<CgPoint name="T04   " oID="T04   " role="measured" latitude="51.998519108958448" longitude="-2.155431558033723" ellipsoidHeight="61.307425" timeStamp="2018-04-17T09:36:12">233352.157784 389425.229384 12.165858</CgPoint>
+<CgPoint name="T03   " oID="T03   " role="measured" latitude="51.998727338714687" longitude="-2.154469699825768" ellipsoidHeight="65.241630" timeStamp="2018-04-17T09:29:12">233375.176834 389491.314223 16.102043</CgPoint>
+<CgPoint name="T02   " oID="T02   " role="measured" latitude="51.998790590194453" longitude="-2.154423391097164" ellipsoidHeight="65.514416" timeStamp="2018-04-17T09:05:38">233382.205185 389494.508428 16.374893</CgPoint>
+<CgPoint name="T01   " oID="T01   " role="measured" latitude="51.998744730844372" longitude="-2.154520246669058" ellipsoidHeight="65.264049" timeStamp="2018-04-17T09:04:20">233377.118670 389487.848089 16.124343</CgPoint>
+<CgPoint name="RTCM-Ref 0227" oID="RTCM-Ref 0227" latitude="51.739170966802249" longitude="-2.300777891226852" ellipsoidHeight="76.164304" timeStamp="2018-04-17T09:03:22">204538.520545 379327.633742 26.859929</CgPoint>
+</CgPoints>
+<Survey>
+<SurveyHeader name="TEWKESBURY_0"/>
+<Equipment>
+<GPSReceiverDetails id="NA" manufacturer="Leica Geosystems AG"/>
+</Equipment>
+<GPSSetup id="RefStationId-2" antennaHeight="0.000000" stationName="RTCM-Ref 0227">
+<GPSPosition pntRef="RTCM-Ref 0227" wgsLatitude="51.739170966802249" wgsLongitude="-2.300777891226852" wgsHeight="76.164304">
+<TargetPoint name="RTCM-Ref 0227" pntRef="RTCM-Ref 0227" >204538.520545 379327.633742 26.859929</TargetPoint>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="RefStationId-3" antennaHeight="0.000000" stationName="RTCM-Ref 0179">
+<GPSPosition pntRef="RTCM-Ref 0179" wgsLatitude="52.251813367140969" wgsLongitude="-2.197940416266568" wgsHeight="87.076941">
+<TargetPoint name="RTCM-Ref 0179" pntRef="RTCM-Ref 0179" >261532.275780 386583.824631 37.471954</TargetPoint>
+</GPSPosition>
+</GPSSetup>
+</Survey>
+<Survey>
+<SurveyHeader name="TEWKESBURY_1"/>
+<Equipment>
+<GPSReceiverDetails id="GPS_1" manufacturer="Leica Geosystems AG" model="CS15" serialNumber="2914725"/>
+</Equipment>
+<GPSSetup id="GPSSetupID_4" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T01   ">
+<GPSPosition pntRef="T01   " wgsLatitude="51.998744730844372" wgsLongitude="-2.154520246669058" wgsHeight="65.264049">
+<TargetPoint name="T01   " pntRef="T01   " >233377.118670 389487.848089 16.124343</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000199845" covarianceXY="0.0000012018" covarianceXZ="-0.0000020858" covarianceYY="0.0000111359" covarianceYZ="-0.0000022040" covarianceZZ="0.0000871459" RMS="1.381562" startTime="1207987470" stopTime="1207987474"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_6" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T02   ">
+<GPSPosition pntRef="T02   " wgsLatitude="51.998790590194453" wgsLongitude="-2.154423391097164" wgsHeight="65.514416">
+<TargetPoint name="T02   " pntRef="T02   " >233382.205185 389494.508428 16.374893</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000195888" covarianceXY="0.0000027934" covarianceXZ="-0.0000045410" covarianceYY="0.0000123367" covarianceYZ="-0.0000034791" covarianceZZ="0.0000888013" RMS="1.232475" startTime="1207987548" stopTime="1207987552"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_8" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T03   ">
+<GPSPosition pntRef="T03   " wgsLatitude="51.998727338714687" wgsLongitude="-2.154469699825768" wgsHeight="65.241630">
+<TargetPoint name="T03   " pntRef="T03   " >233375.176834 389491.314223 16.102043</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000433835" covarianceXY="-0.0000035320" covarianceXZ="-0.0000133832" covarianceYY="0.0000195851" covarianceYZ="0.0000011410" covarianceZZ="0.0001217297" RMS="0.943035" startTime="1207988963" stopTime="1207988965"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_10" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T04   ">
+<GPSPosition pntRef="T04   " wgsLatitude="51.998519108958448" wgsLongitude="-2.155431558033723" wgsHeight="61.307425">
+<TargetPoint name="T04   " pntRef="T04   " >233352.157784 389425.229384 12.165858</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000298213" covarianceXY="-0.0000037262" covarianceXZ="-0.0000070760" covarianceYY="0.0000121545" covarianceYZ="-0.0000000870" covarianceZZ="0.0000732514" RMS="1.245454" startTime="1207989382" stopTime="1207989386"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_12" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T05   ">
+<GPSPosition pntRef="T05   " wgsLatitude="51.998529876161889" wgsLongitude="-2.155422143542445" wgsHeight="61.080158">
+<TargetPoint name="T05   " pntRef="T05   " >233353.353976 389425.878287 11.938606</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000303507" covarianceXY="-0.0000037812" covarianceXZ="-0.0000047666" covarianceYY="0.0000122686" covarianceYZ="-0.0000000410" covarianceZZ="0.0000724784" RMS="1.277211" startTime="1207989422" stopTime="1207989426"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_14" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T06   ">
+<GPSPosition pntRef="T06   " wgsLatitude="51.998531920129167" wgsLongitude="-2.155419267465691" wgsHeight="60.923367">
+<TargetPoint name="T06   " pntRef="T06   " >233353.580892 389426.076227 11.781819</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000307580" covarianceXY="-0.0000035387" covarianceXZ="-0.0000041185" covarianceYY="0.0000123556" covarianceYZ="0.0000000958" covarianceZZ="0.0000726913" RMS="1.084568" startTime="1207989446" stopTime="1207989450"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_16" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T07   ">
+<GPSPosition pntRef="T07   " wgsLatitude="51.998534058539072" wgsLongitude="-2.155417003213577" wgsHeight="60.774474">
+<TargetPoint name="T07   " pntRef="T07   " >233353.818403 389426.232186 11.632930</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000369158" covarianceXY="-0.0000043025" covarianceXZ="-0.0000030947" covarianceYY="0.0000133611" covarianceYZ="-0.0000043356" covarianceZZ="0.0000860032" RMS="1.104594" startTime="1207989470" stopTime="1207989474"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_18" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T08   ">
+<GPSPosition pntRef="T08   " wgsLatitude="51.998536375326111" wgsLongitude="-2.155414036749733" wgsHeight="60.627013">
+<TargetPoint name="T08   " pntRef="T08   " >233354.075650 389426.436396 11.485477</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000386348" covarianceXY="-0.0000055309" covarianceXZ="0.0000024595" covarianceYY="0.0000133271" covarianceYZ="-0.0000039971" covarianceZZ="0.0000862738" RMS="1.153080" startTime="1207989497" stopTime="1207989501"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_20" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T09   ">
+<GPSPosition pntRef="T09   " wgsLatitude="51.998538427283371" wgsLongitude="-2.155411376307328" wgsHeight="60.476169">
+<TargetPoint name="T09   " pntRef="T09   " >233354.303487 389426.619534 11.334636</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000349298" covarianceXY="-0.0000050512" covarianceXZ="-0.0000012272" covarianceYY="0.0000129673" covarianceYZ="-0.0000028735" covarianceZZ="0.0000808784" RMS="1.039003" startTime="1207989516" stopTime="1207989520"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_22" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T10   ">
+<GPSPosition pntRef="T10   " wgsLatitude="51.998540650348630" wgsLongitude="-2.155408742036072" wgsHeight="60.328114">
+<TargetPoint name="T10   " pntRef="T10   " >233354.550359 389426.800916 11.186585</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000326151" covarianceXY="-0.0000047757" covarianceXZ="-0.0000037883" covarianceYY="0.0000129285" covarianceYZ="-0.0000012385" covarianceZZ="0.0000771707" RMS="1.129285" startTime="1207989534" stopTime="1207989538"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_24" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T11   ">
+<GPSPosition pntRef="T11   " wgsLatitude="51.998542820200939" wgsLongitude="-2.155406166117379" wgsHeight="60.179424">
+<TargetPoint name="T11   " pntRef="T11   " >233354.791321 389426.978279 11.037899</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000300483" covarianceXY="-0.0000045142" covarianceXZ="-0.0000051705" covarianceYY="0.0000123430" covarianceYZ="-0.0000004725" covarianceZZ="0.0000716939" RMS="1.159260" startTime="1207989559" stopTime="1207989563"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_26" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T12   ">
+<GPSPosition pntRef="T12   " wgsLatitude="51.998545230235749" wgsLongitude="-2.155404037659198" wgsHeight="60.028618">
+<TargetPoint name="T12   " pntRef="T12   " >233355.059063 389427.124980 10.887096</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000377048" covarianceXY="-0.0000050653" covarianceXZ="0.0000020008" covarianceYY="0.0000142045" covarianceYZ="-0.0000042037" covarianceZZ="0.0000925100" RMS="1.198959" startTime="1207989581" stopTime="1207989585"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_28" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T13   ">
+<GPSPosition pntRef="T13   " wgsLatitude="51.998547138394116" wgsLongitude="-2.155401873274545" wgsHeight="59.875038">
+<TargetPoint name="T13   " pntRef="T13   " >233355.270978 389427.274027 10.733520</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000475529" covarianceXY="-0.0000070697" covarianceXZ="0.0000058858" covarianceYY="0.0000132979" covarianceYZ="-0.0000036221" covarianceZZ="0.0000915227" RMS="1.136348" startTime="1207989603" stopTime="1207989607"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_30" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T14   ">
+<GPSPosition pntRef="T14   " wgsLatitude="51.998483951869886" wgsLongitude="-2.155353572392182" wgsHeight="61.145894">
+<TargetPoint name="T14   " pntRef="T14   " >233348.235960 389430.575085 12.004517</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000319226" covarianceXY="-0.0000053113" covarianceXZ="-0.0000034331" covarianceYY="0.0000126510" covarianceYZ="-0.0000012187" covarianceZZ="0.0000740203" RMS="1.085605" startTime="1207989643" stopTime="1207989647"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_32" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T15   ">
+<GPSPosition pntRef="T15   " wgsLatitude="51.998586705583421" wgsLongitude="-2.155268008717519" wgsHeight="59.947363">
+<TargetPoint name="T15   " pntRef="T15   " >233359.652122 389436.473785 10.806113</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000334585" covarianceXY="-0.0000051964" covarianceXZ="-0.0000070472" covarianceYY="0.0000127342" covarianceYZ="-0.0000012619" covarianceZZ="0.0000784155" RMS="1.112257" startTime="1207989736" stopTime="1207989740"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_34" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T16   ">
+<GPSPosition pntRef="T16   " wgsLatitude="51.998619732002616" wgsLongitude="-2.155282172671589" wgsHeight="60.088942">
+<TargetPoint name="T16   " pntRef="T16   " >233363.327561 389435.509208 10.947646</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000381188" covarianceXY="-0.0000070632" covarianceXZ="-0.0000038364" covarianceYY="0.0000132900" covarianceYZ="-0.0000024318" covarianceZZ="0.0000845059" RMS="1.238688" startTime="1207989929" stopTime="1207989933"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_36" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T17   ">
+<GPSPosition pntRef="T17   " wgsLatitude="51.998630646599118" wgsLongitude="-2.155285670351921" wgsHeight="61.163759">
+<TargetPoint name="T17   " pntRef="T17   " >233364.542050 389435.271668 12.022448</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000488060" covarianceXY="-0.0000060507" covarianceXZ="-0.0000036204" covarianceYY="0.0000143569" covarianceYZ="-0.0000065621" covarianceZZ="0.0001090878" RMS="1.420862" startTime="1207989957" stopTime="1207989961"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_38" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T18   ">
+<GPSPosition pntRef="T18   " wgsLatitude="51.998666461630464" wgsLongitude="-2.155244526923954" wgsHeight="59.930346">
+<TargetPoint name="T18   " pntRef="T18   " >233368.519513 389438.104830 10.789103</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000782643" covarianceXY="-0.0000248831" covarianceXZ="-0.0000098627" covarianceYY="0.0000527079" covarianceYZ="0.0000454889" covarianceZZ="0.0002237098" RMS="1.094986" startTime="1207990026" stopTime="1207990030"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_40" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T19   ">
+<GPSPosition pntRef="T19   " wgsLatitude="51.998662357080306" wgsLongitude="-2.155255756403388" wgsHeight="60.397265">
+<TargetPoint name="T19   " pntRef="T19   " >233368.064638 389437.332907 11.255999</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000593401" covarianceXY="-0.0000240636" covarianceXZ="-0.0000145066" covarianceYY="0.0000450153" covarianceYZ="0.0000256423" covarianceZZ="0.0001298256" RMS="1.142449" startTime="1207990071" stopTime="1207990075"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_44" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T20   ">
+<GPSPosition pntRef="T20   " wgsLatitude="51.998702617720284" wgsLongitude="-2.155266692277691" wgsHeight="60.395779">
+<TargetPoint name="T20   " pntRef="T20   " >233372.544227 389436.591668 11.254467</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0001402695" covarianceXY="-0.0000036539" covarianceXZ="0.0000601369" covarianceYY="0.0000746807" covarianceYZ="0.0001075568" covarianceZZ="0.0004910445" RMS="1.570564" startTime="1207990294" stopTime="1207990298"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_46" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T21   ">
+<GPSPosition pntRef="T21   " wgsLatitude="51.998764207874693" wgsLongitude="-2.155281329828515" wgsHeight="60.393454">
+<TargetPoint name="T21   " pntRef="T21   " >233379.396731 389435.601358 11.252078</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000776754" covarianceXY="-0.0000200259" covarianceXZ="0.0000146665" covarianceYY="0.0000269492" covarianceYZ="-0.0000066348" covarianceZZ="0.0001354205" RMS="1.201567" startTime="1207990356" stopTime="1207990360"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup id="GPSSetupID_48" GPSReceiverDetailsID="GPS_1" antennaHeight="2.000000" stationName="T22   ">
+<GPSPosition pntRef="T22   " wgsLatitude="51.998807503181169" wgsLongitude="-2.155135675174674" wgsHeight="60.140222">
+<TargetPoint name="T22   " pntRef="T22   " >233384.190815 389445.611384 10.999140</TargetPoint>
+<GPSQCInfoLevel2 covarianceXX="0.0000430255" covarianceXY="-0.0000085428" covarianceXZ="0.0000043032" covarianceYY="0.0000149085" covarianceYZ="-0.0000083783" covarianceZZ="0.0001085172" RMS="1.000450" startTime="1207990471" stopTime="1207990475"/>
+</GPSPosition>
+</GPSSetup>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_4" dX="-22316.348948" dY="10949.782467" dZ="17824.803046">
+<TargetPoint name="T01   " pntRef="T01   " >233377.118670 389487.848089 16.124343</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_6" dX="-22319.962906" dY="10956.575231" dZ="17828.141957">
+<TargetPoint name="T02   " pntRef="T02   " >233382.205185 389494.508428 16.374893</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_8" dX="-22314.708378" dY="10953.194794" dZ="17823.593922">
+<TargetPoint name="T03   " pntRef="T03   " >233375.176834 389491.314223 16.102043</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_10" dX="-22301.368438" dY="10886.584883" dZ="17806.228840">
+<TargetPoint name="T04   " pntRef="T04   " >233352.157784 389425.229384 12.165858</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_12" dX="-22302.427334" dY="10887.271790" dZ="17806.787371">
+<TargetPoint name="T05   " pntRef="T05   " >233353.353976 389425.878287 11.938606</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_14" dX="-22302.695456" dY="10887.479553" dZ="17806.803845">
+<TargetPoint name="T06   " pntRef="T06   " >233353.580892 389426.076227 11.781819</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_16" dX="-22302.968574" dY="10887.645453" dZ="17806.833011">
+<TargetPoint name="T07   " pntRef="T07   " >233353.818403 389426.232186 11.632930</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_18" dX="-22303.254625" dY="10887.860103" dZ="17806.875526">
+<TargetPoint name="T08   " pntRef="T08   " >233354.075650 389426.436396 11.485477</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_20" dX="-22303.520345" dY="10888.052955" dZ="17806.897233">
+<TargetPoint name="T09   " pntRef="T09   " >233354.303487 389426.619534 11.334636</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_22" dX="-22303.799409" dY="10888.244510" dZ="17806.932860">
+<TargetPoint name="T10   " pntRef="T10   " >233354.550359 389426.800916 11.186585</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_24" dX="-22304.074352" dY="10888.431900" dZ="17806.964341">
+<TargetPoint name="T11   " pntRef="T11   " >233354.791321 389426.978279 11.037899</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_26" dX="-22304.372797" dY="10888.589420" dZ="17807.010607">
+<TargetPoint name="T12   " pntRef="T12   " >233355.059063 389427.124980 10.887096</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_28" dX="-22304.628882" dY="10888.747815" dZ="17807.020307">
+<TargetPoint name="T13   " pntRef="T13   " >233355.270978 389427.274027 10.733520</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_30" dX="-22298.186023" dY="10891.825029" dZ="17803.693084">
+<TargetPoint name="T14   " pntRef="T14   " >233348.235960 389430.575085 12.004517</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_32" dX="-22307.705367" dY="10898.064041" dZ="17809.787883">
+<TargetPoint name="T15   " pntRef="T15   " >233359.652122 389436.473785 10.806113</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_34" dX="-22310.548521" dY="10897.197561" dZ="17812.161947">
+<TargetPoint name="T16   " pntRef="T16   " >233363.327561 389435.509208 10.947646</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_36" dX="-22310.852584" dY="10896.968611" dZ="17813.756612">
+<TargetPoint name="T17   " pntRef="T17   " >233364.542050 389435.271668 12.022448</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_38" dX="-22314.643172" dY="10899.939028" dZ="17815.238221">
+<TargetPoint name="T18   " pntRef="T18   " >233368.519513 389438.104830 10.789103</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-2" setupID_B="GPSSetupID_40" dX="-22314.025278" dY="10899.143980" dZ="17815.324967">
+<TargetPoint name="T19   " pntRef="T19   " >233368.064638 389437.332907 11.255999</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-3" setupID_B="GPSSetupID_44" dX="22309.874041" dY="2076.760918" dZ="-17311.909122">
+<TargetPoint name="T20   " pntRef="T20   " >233372.544227 389436.591668 11.254467</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-3" setupID_B="GPSSetupID_46" dX="22304.438450" dY="2075.959455" dZ="-17307.691684">
+<TargetPoint name="T21   " pntRef="T21   " >233379.396731 389435.601358 11.252078</TargetPoint>
+</GPSVector>
+<GPSVector setupID_A="RefStationId-3" setupID_B="GPSSetupID_48" dX="22300.865440" dY="2086.104638" dZ="-17304.925263">
+<TargetPoint name="T22   " pntRef="T22   " >233384.190815 389445.611384 10.999140</TargetPoint>
+</GPSVector>
+</Survey>
+<HexagonLandXML xmlns="http://xml.hexagon.com/schema/HeXML-1.6" xsi:schemaLocation="http://xml.hexagon.com/schema/HeXML-1.6 http://xml.hexagon.com/schema/HeXML-1.6.xsd" xmlns:landxml="http://www.landxml.org/schema/LandXML-1.2" averagingMode="Average" averagingMethod="Weighted" averagingPosLimit="0.050000" averagingHgtLimit="0.075000">
+<CoordinateSystem name="OSGB36(15)" type="classic" residualDistributionKind="no distribution">
+<Ellipsoid name="GRS 1980" SemiMajorAxis="6378137.000000" ReciprocFlattening="298.257222"/>
+<Projection name="UKTM">
+<TransverseMercatorProjection falseE="400000.000000" falseN="-100000.000000" lambda0="-2.000000000000000" phi0="49.000000000000000" zoneWidth="14.596000000000000" scale0="0.999601271700000"/>
+</Projection>
+<GeoidModel name="OSGM15GB" geodeticDatumKind="Local" coordinateSystemKind="grid"><landxml:DocFileRef name="OSGM15GB.GEM" location="-"/>
+</GeoidModel>
+<CsCsModel name="OSTN15(GB)" csCsModelKind="grid"><landxml:DocFileRef name="OSTN15GB.csc" location="-"/>
+</CsCsModel>
+</CoordinateSystem>
+<Point uniqueID="T22   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932318.630640" y="-147980.867762" z="5002769.045137"/>
+<Geodetic lat="51.998807503181169" lon="-2.155135675174674" hghtE="60.140222" hghthO="10.999139"/>
+</WGS84>
+<Local>
+<Cartesian x="3932318.630640" y="-147980.867762" z="5002769.045137"/>
+<Geodetic lat="51.998807504096099" lon="-2.155135675174675" hghtE="60.140287" hghthO="10.999140"/>
+<Grid e="389445.611384" n="233384.190815" hghtE="60.140287" hghthO="10.999140"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000430255" Qxy="-0.0000085428" Qxz="0.0000043032" Qyy="0.0000149085" Qyz="-0.0000083783" Qzz="0.0001085172" MeanError="1.000450" CQ3D="0.012907" CQPos="0.007615" CQHeight="0.010422"/>
+</Point>
+<Point uniqueID="T21   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932322.203650" y="-147991.012945" z="5002766.278716"/>
+<Geodetic lat="51.998764207874693" lon="-2.155281329828515" hghtE="60.393454" hghthO="11.252078"/>
+</WGS84>
+<Local>
+<Cartesian x="3932322.203650" y="-147991.012945" z="5002766.278716"/>
+<Geodetic lat="51.998764208789616" lon="-2.155281329828515" hghtE="60.393519" hghthO="11.252078"/>
+<Grid e="389435.601358" n="233379.396731" hghtE="60.393519" hghthO="11.252078"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000776754" Qxy="-0.0000200259" Qxz="0.0000146665" Qyy="0.0000269492" Qyz="-0.0000066348" Qzz="0.0001354205" MeanError="1.201567" CQ3D="0.018616" CQPos="0.012290" CQHeight="0.013983"/>
+</Point>
+<Point uniqueID="T20   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932327.639241" y="-147990.211482" z="5002762.061278"/>
+<Geodetic lat="51.998702617720284" lon="-2.155266692277691" hghtE="60.395779" hghthO="11.254467"/>
+</WGS84>
+<Local>
+<Cartesian x="3932327.639241" y="-147990.211482" z="5002762.061278"/>
+<Geodetic lat="51.998702618635214" lon="-2.155266692277691" hghtE="60.395844" hghthO="11.254467"/>
+<Grid e="389436.591668" n="233372.544227" hghtE="60.395844" hghthO="11.254467"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0001402695" Qxy="-0.0000036539" Qxz="0.0000601369" Qyy="0.0000746807" Qyz="0.0001075568" Qzz="0.0004910445" MeanError="1.570564" CQ3D="0.041731" CQPos="0.023026" CQHeight="0.034803"/>
+</Point>
+<Point uniqueID="RTCM-Ref 0179" class="reference" subclass="positionAndHeight">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3910017.765200" y="-150066.972400" z="5020073.970400"/>
+<Geodetic lat="52.251813367140969" lon="-2.197940416266568" hghtE="87.076941" hghthO="37.471953"/>
+</WGS84>
+<Local>
+<Cartesian x="3910017.765200" y="-150066.972400" z="5020073.970400"/>
+<Geodetic lat="52.251813368053831" lon="-2.197940416266568" hghtE="87.077007" hghthO="37.471954"/>
+<Grid e="386583.824631" n="261532.275780" hghtE="87.077007" hghthO="37.471954"/>
+</Local>
+</Coordinates>
+<PointQuality MeanError="0.000000"/>
+</Point>
+<Point uniqueID="T19   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932331.195922" y="-147989.593720" z="5002759.304367"/>
+<Geodetic lat="51.998662357080306" lon="-2.155255756403388" hghtE="60.397265" hghthO="11.255999"/>
+</WGS84>
+<Local>
+<Cartesian x="3932331.195922" y="-147989.593720" z="5002759.304367"/>
+<Geodetic lat="51.998662357995229" lon="-2.155255756403387" hghtE="60.397330" hghthO="11.255999"/>
+<Grid e="389437.332907" n="233368.064638" hghtE="60.397330" hghthO="11.255999"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000593401" Qxy="-0.0000240636" Qxz="-0.0000145066" Qyy="0.0000450153" Qyz="0.0000256423" Qzz="0.0001298256" MeanError="1.142449" CQ3D="0.017483" CQPos="0.011671" CQHeight="0.013017"/>
+</Point>
+<Point uniqueID="T18   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932330.578028" y="-147988.798672" z="5002759.217621"/>
+<Geodetic lat="51.998666461630464" lon="-2.155244526923954" hghtE="59.930346" hghthO="10.789103"/>
+</WGS84>
+<Local>
+<Cartesian x="3932330.578028" y="-147988.798672" z="5002759.217621"/>
+<Geodetic lat="51.998666462545401" lon="-2.155244526923954" hghtE="59.930411" hghthO="10.789103"/>
+<Grid e="389438.104830" n="233368.519513" hghtE="59.930411" hghthO="10.789103"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000782643" Qxy="-0.0000248831" Qxz="-0.0000098627" Qyy="0.0000527079" Qyz="0.0000454889" Qzz="0.0002237098" MeanError="1.094986" CQ3D="0.020622" CQPos="0.012531" CQHeight="0.016378"/>
+</Point>
+<Point uniqueID="T17   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932334.368616" y="-147991.769089" z="5002757.736011"/>
+<Geodetic lat="51.998630646599118" lon="-2.155285670351921" hghtE="61.163759" hghthO="12.022447"/>
+</WGS84>
+<Local>
+<Cartesian x="3932334.368616" y="-147991.769089" z="5002757.736011"/>
+<Geodetic lat="51.998630647514041" lon="-2.155285670351921" hghtE="61.163824" hghthO="12.022448"/>
+<Grid e="389435.271668" n="233364.542050" hghtE="61.163824" hghthO="12.022448"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000488060" Qxy="-0.0000060507" Qxz="-0.0000036204" Qyy="0.0000143569" Qyz="-0.0000065621" Qzz="0.0001090878" MeanError="1.420862" CQ3D="0.018648" CQPos="0.011292" CQHeight="0.014840"/>
+</Point>
+<Point uniqueID="T16   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932334.672679" y="-147991.540139" z="5002756.141347"/>
+<Geodetic lat="51.998619732002616" lon="-2.155282172671589" hghtE="60.088942" hghthO="10.947646"/>
+</WGS84>
+<Local>
+<Cartesian x="3932334.672679" y="-147991.540139" z="5002756.141347"/>
+<Geodetic lat="51.998619732917540" lon="-2.155282172671589" hghtE="60.089007" hghthO="10.947646"/>
+<Grid e="389435.509208" n="233363.327561" hghtE="60.089007" hghthO="10.947646"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000381188" Qxy="-0.0000070632" Qxz="-0.0000038364" Qyy="0.0000132900" Qyz="-0.0000024318" Qzz="0.0000845059" MeanError="1.238688" CQ3D="0.014441" CQPos="0.008881" CQHeight="0.011387"/>
+</Point>
+<Point uniqueID="T15   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932337.515833" y="-147990.673659" z="5002753.767283"/>
+<Geodetic lat="51.998586705583421" lon="-2.155268008717519" hghtE="59.947363" hghthO="10.806113"/>
+</WGS84>
+<Local>
+<Cartesian x="3932337.515833" y="-147990.673659" z="5002753.767283"/>
+<Geodetic lat="51.998586706498344" lon="-2.155268008717519" hghtE="59.947428" hghthO="10.806113"/>
+<Grid e="389436.473785" n="233359.652122" hghtE="59.947428" hghthO="10.806113"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000334585" Qxy="-0.0000051964" Qxz="-0.0000070472" Qyy="0.0000127342" Qyz="-0.0000012619" Qzz="0.0000784155" MeanError="1.112257" CQ3D="0.012416" CQPos="0.007559" CQHeight="0.009849"/>
+</Point>
+<Point uniqueID="T14   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932347.035177" y="-147996.912671" z="5002747.672483"/>
+<Geodetic lat="51.998483951869886" lon="-2.155353572392182" hghtE="61.145894" hghthO="12.004517"/>
+</WGS84>
+<Local>
+<Cartesian x="3932347.035177" y="-147996.912671" z="5002747.672483"/>
+<Geodetic lat="51.998483952784817" lon="-2.155353572392182" hghtE="61.145959" hghthO="12.004517"/>
+<Grid e="389430.575085" n="233348.235960" hghtE="61.145959" hghthO="12.004517"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000319226" Qxy="-0.0000053113" Qxz="-0.0000034331" Qyy="0.0000126510" Qyz="-0.0000012187" Qzz="0.0000740203" MeanError="1.085605" CQ3D="0.011822" CQPos="0.007248" CQHeight="0.009340"/>
+</Point>
+<Point uniqueID="T13   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932340.592318" y="-147999.989885" z="5002750.999707"/>
+<Geodetic lat="51.998547138394116" lon="-2.155401873274545" hghtE="59.875038" hghthO="10.733520"/>
+</WGS84>
+<Local>
+<Cartesian x="3932340.592318" y="-147999.989885" z="5002750.999707"/>
+<Geodetic lat="51.998547139309039" lon="-2.155401873274545" hghtE="59.875103" hghthO="10.733520"/>
+<Grid e="389427.274027" n="233355.270978" hghtE="59.875103" hghthO="10.733520"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000475529" Qxy="-0.0000070697" Qxz="0.0000058858" Qyy="0.0000132979" Qyz="-0.0000036221" Qzz="0.0000915227" MeanError="1.136348" CQ3D="0.014027" CQPos="0.008864" CQHeight="0.010871"/>
+</Point>
+<Point uniqueID="T12   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932340.848403" y="-148000.148280" z="5002750.990007"/>
+<Geodetic lat="51.998545230235749" lon="-2.155404037659198" hghtE="60.028618" hghthO="10.887096"/>
+</WGS84>
+<Local>
+<Cartesian x="3932340.848403" y="-148000.148280" z="5002750.990007"/>
+<Geodetic lat="51.998545231150679" lon="-2.155404037659198" hghtE="60.028683" hghthO="10.887096"/>
+<Grid e="389427.124980" n="233355.059063" hghtE="60.028683" hghthO="10.887096"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000377048" Qxy="-0.0000050653" Qxz="0.0000020008" Qyy="0.0000142045" Qyz="-0.0000042037" Qzz="0.0000925100" MeanError="1.198959" CQ3D="0.014408" CQPos="0.008638" CQHeight="0.011532"/>
+</Point>
+<Point uniqueID="T11   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932341.146848" y="-148000.305800" z="5002750.943740"/>
+<Geodetic lat="51.998542820200939" lon="-2.155406166117379" hghtE="60.179424" hghthO="11.037899"/>
+</WGS84>
+<Local>
+<Cartesian x="3932341.146848" y="-148000.305800" z="5002750.943740"/>
+<Geodetic lat="51.998542821115862" lon="-2.155406166117379" hghtE="60.179489" hghthO="11.037899"/>
+<Grid e="389426.978279" n="233354.791321" hghtE="60.179489" hghthO="11.037899"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000300483" Qxy="-0.0000045142" Qxz="-0.0000051705" Qyy="0.0000123430" Qyz="-0.0000004725" Qzz="0.0000716939" MeanError="1.159260" CQ3D="0.012382" CQPos="0.007548" CQHeight="0.009816"/>
+</Point>
+<Point uniqueID="T10   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932341.421791" y="-148000.493190" z="5002750.912260"/>
+<Geodetic lat="51.998540650348630" lon="-2.155408742036072" hghtE="60.328114" hghthO="11.186585"/>
+</WGS84>
+<Local>
+<Cartesian x="3932341.421791" y="-148000.493190" z="5002750.912260"/>
+<Geodetic lat="51.998540651263554" lon="-2.155408742036071" hghtE="60.328179" hghthO="11.186585"/>
+<Grid e="389426.800916" n="233354.550359" hghtE="60.328179" hghthO="11.186585"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000326151" Qxy="-0.0000047757" Qxz="-0.0000037883" Qyy="0.0000129285" Qyz="-0.0000012385" Qzz="0.0000771707" MeanError="1.129285" CQ3D="0.012510" CQPos="0.007621" CQHeight="0.009920"/>
+</Point>
+<Point uniqueID="T09   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932341.700855" y="-148000.684745" z="5002750.876633"/>
+<Geodetic lat="51.998538427283371" lon="-2.155411376307328" hghtE="60.476169" hghthO="11.334636"/>
+</WGS84>
+<Local>
+<Cartesian x="3932341.700855" y="-148000.684745" z="5002750.876633"/>
+<Geodetic lat="51.998538428198287" lon="-2.155411376307328" hghtE="60.476234" hghthO="11.334636"/>
+<Grid e="389426.619534" n="233354.303487" hghtE="60.476234" hghthO="11.334636"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000349298" Qxy="-0.0000050512" Qxz="-0.0000012272" Qyy="0.0000129673" Qyz="-0.0000028735" Qzz="0.0000808784" MeanError="1.039003" CQ3D="0.011791" CQPos="0.007191" CQHeight="0.009344"/>
+</Point>
+<Point uniqueID="T08   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932341.966575" y="-148000.877597" z="5002750.854926"/>
+<Geodetic lat="51.998536375326111" lon="-2.155414036749733" hghtE="60.627013" hghthO="11.485476"/>
+</WGS84>
+<Local>
+<Cartesian x="3932341.966575" y="-148000.877597" z="5002750.854926"/>
+<Geodetic lat="51.998536376241034" lon="-2.155414036749733" hghtE="60.627078" hghthO="11.485477"/>
+<Grid e="389426.436396" n="233354.075650" hghtE="60.627078" hghthO="11.485477"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000386348" Qxy="-0.0000055309" Qxz="0.0000024595" Qyy="0.0000133271" Qyz="-0.0000039971" Qzz="0.0000862738" MeanError="1.153080" CQ3D="0.013557" CQPos="0.008312" CQHeight="0.010710"/>
+</Point>
+<Point uniqueID="T07   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932342.252626" y="-148001.092247" z="5002750.812411"/>
+<Geodetic lat="51.998534058539072" lon="-2.155417003213577" hghtE="60.774474" hghthO="11.632929"/>
+</WGS84>
+<Local>
+<Cartesian x="3932342.252626" y="-148001.092247" z="5002750.812411"/>
+<Geodetic lat="51.998534059453995" lon="-2.155417003213577" hghtE="60.774539" hghthO="11.632930"/>
+<Grid e="389426.232186" n="233353.818403" hghtE="60.774539" hghthO="11.632930"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000369158" Qxy="-0.0000043025" Qxz="-0.0000030947" Qyy="0.0000133611" Qyz="-0.0000043356" Qzz="0.0000860032" MeanError="1.104594" CQ3D="0.012895" CQPos="0.007832" CQHeight="0.010244"/>
+</Point>
+<Point uniqueID="T06   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932342.525744" y="-148001.258147" z="5002750.783244"/>
+<Geodetic lat="51.998531920129167" lon="-2.155419267465691" hghtE="60.923367" hghthO="11.781819"/>
+</WGS84>
+<Local>
+<Cartesian x="3932342.525744" y="-148001.258147" z="5002750.783244"/>
+<Geodetic lat="51.998531921044091" lon="-2.155419267465691" hghtE="60.923432" hghthO="11.781819"/>
+<Grid e="389426.076227" n="233353.580892" hghtE="60.923432" hghthO="11.781819"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000307580" Qxy="-0.0000035387" Qxz="-0.0000041185" Qyy="0.0000123556" Qyz="0.0000000958" Qzz="0.0000726913" MeanError="1.084568" CQ3D="0.011671" CQPos="0.007121" CQHeight="0.009247"/>
+</Point>
+<Point uniqueID="T05   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932342.793866" y="-148001.465910" z="5002750.766771"/>
+<Geodetic lat="51.998529876161889" lon="-2.155422143542445" hghtE="61.080158" hghthO="11.938606"/>
+</WGS84>
+<Local>
+<Cartesian x="3932342.793866" y="-148001.465910" z="5002750.766771"/>
+<Geodetic lat="51.998529877076813" lon="-2.155422143542444" hghtE="61.080223" hghthO="11.938606"/>
+<Grid e="389425.878287" n="233353.353976" hghtE="61.080223" hghthO="11.938606"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000303507" Qxy="-0.0000037812" Qxz="-0.0000047666" Qyy="0.0000122686" Qyz="-0.0000000410" Qzz="0.0000724784" MeanError="1.277211" CQ3D="0.013702" CQPos="0.008338" CQHeight="0.010873"/>
+</Point>
+<Point uniqueID="T04   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932343.852762" y="-148002.152817" z="5002750.208240"/>
+<Geodetic lat="51.998519108958448" lon="-2.155431558033723" hghtE="61.307425" hghthO="12.165858"/>
+</WGS84>
+<Local>
+<Cartesian x="3932343.852762" y="-148002.152817" z="5002750.208240"/>
+<Geodetic lat="51.998519109873385" lon="-2.155431558033723" hghtE="61.307490" hghthO="12.165858"/>
+<Grid e="389425.229384" n="233352.157784" hghtE="61.307490" hghthO="12.165858"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000298213" Qxy="-0.0000037262" Qxz="-0.0000070760" Qyy="0.0000121545" Qyz="-0.0000000870" Qzz="0.0000732514" MeanError="1.245454" CQ3D="0.013369" CQPos="0.008069" CQHeight="0.010659"/>
+</Point>
+<Point uniqueID="T03   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932330.512822" y="-147935.542906" z="5002767.573321"/>
+<Geodetic lat="51.998727338714687" lon="-2.154469699825768" hghtE="65.241630" hghthO="16.102043"/>
+</WGS84>
+<Local>
+<Cartesian x="3932330.512822" y="-147935.542906" z="5002767.573321"/>
+<Geodetic lat="51.998727339629617" lon="-2.154469699825767" hghtE="65.241695" hghthO="16.102043"/>
+<Grid e="389491.314223" n="233375.176834" hghtE="65.241695" hghthO="16.102043"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000433835" Qxy="-0.0000035320" Qxz="-0.0000133832" Qyy="0.0000195851" Qyz="0.0000011410" Qzz="0.0001217297" MeanError="0.943035" CQ3D="0.012816" CQPos="0.007483" CQHeight="0.010405"/>
+</Point>
+<Point uniqueID="T02   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="1">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932325.258294" y="-147932.162469" z="5002772.121357"/>
+<Geodetic lat="51.998790590194453" lon="-2.154423391097164" hghtE="65.514416" hghthO="16.374893"/>
+</WGS84>
+<Local>
+<Cartesian x="3932325.258294" y="-147932.162469" z="5002772.121357"/>
+<Geodetic lat="51.998790591109383" lon="-2.154423391097164" hghtE="65.514481" hghthO="16.374893"/>
+<Grid e="389494.508428" n="233382.205185" hghtE="65.514481" hghthO="16.374893"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000195888" Qxy="0.0000027934" Qxz="-0.0000045410" Qyy="0.0000123367" Qyz="-0.0000034791" Qzz="0.0000888013" MeanError="1.232475" CQ3D="0.013542" CQPos="0.006964" CQHeight="0.011614"/>
+</Point>
+<Point uniqueID="T01   " class="measured" subclass="GPS phase" averageUsage="true" applicationNumber="1">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3932328.872252" y="-147938.955233" z="5002768.782446"/>
+<Geodetic lat="51.998744730844372" lon="-2.154520246669058" hghtE="65.264049" hghthO="16.124343"/>
+</WGS84>
+<Local>
+<Cartesian x="3932328.872252" y="-147938.955233" z="5002768.782446"/>
+<Geodetic lat="51.998744731759302" lon="-2.154520246669059" hghtE="65.264114" hghthO="16.124343"/>
+<Grid e="389487.848089" n="233377.118670" hghtE="65.264114" hghthO="16.124343"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000199845" Qxy="0.0000012018" Qxz="-0.0000020858" Qyy="0.0000111359" Qyz="-0.0000022040" Qzz="0.0000871459" MeanError="1.381562" CQ3D="0.015025" CQPos="0.007707" CQHeight="0.012897"/>
+</Point>
+<Point uniqueID="RTCM-Ref 0227" class="reference" subclass="positionAndHeight">
+<Coordinates originalCoordSysKind="Ellipsoidal" originalGeodeticDatumKind="WGS84" originalHeightKind="ellipsoidal">
+<WGS84>
+<Cartesian x="3954645.221200" y="-158888.737700" z="4984943.979400"/>
+<Geodetic lat="51.739170966802249" lon="-2.300777891226852" hghtE="76.164304" hghthO="26.859929"/>
+</WGS84>
+<Local>
+<Cartesian x="3954645.221200" y="-158888.737700" z="4984943.979400"/>
+<Geodetic lat="51.739170967719218" lon="-2.300777891226852" hghtE="76.164368" hghthO="26.859929"/>
+<Grid e="379327.633742" n="204538.520545" hghtE="76.164368" hghthO="26.859929"/>
+</Local>
+</Coordinates>
+<PointQuality MeanError="0.000000"/>
+</Point>
+<Survey name="TEWKESBURY_1" Creator="DARE" SurveyDuration="P0Y0M0DT0H50M59S">
+<GPSSetup uniqueID="GPSSetupID_4">
+<GPSPosition targetPntRef="T01   ">
+<GPSQuality HDOP="0.800000" GDOP="1.649242" PDOP="1.442221" VDOP="1.200000" TDOP="0.800000"/>
+<SatelliteInfo GPSSatTracked="8" GPSSatUsed="8" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="8" GLONASSSatUsed="6" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_6">
+<GPSPosition targetPntRef="T02   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="8" GPSSatUsed="8" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="8" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_8">
+<GPSPosition targetPntRef="T03   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="3"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_10">
+<GPSPosition targetPntRef="T04   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_12">
+<GPSPosition targetPntRef="T05   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_14">
+<GPSPosition targetPntRef="T06   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_16">
+<GPSPosition targetPntRef="T07   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_18">
+<GPSPosition targetPntRef="T08   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_20">
+<GPSPosition targetPntRef="T09   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_22">
+<GPSPosition targetPntRef="T10   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_24">
+<GPSPosition targetPntRef="T11   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_26">
+<GPSPosition targetPntRef="T12   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_28">
+<GPSPosition targetPntRef="T13   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_30">
+<GPSPosition targetPntRef="T14   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_32">
+<GPSPosition targetPntRef="T15   ">
+<GPSQuality HDOP="0.700000" GDOP="1.407125" PDOP="1.220656" VDOP="1.000000" TDOP="0.700000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="7" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_34">
+<GPSPosition targetPntRef="T16   ">
+<GPSQuality HDOP="0.800000" GDOP="1.649242" PDOP="1.442221" VDOP="1.200000" TDOP="0.800000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="6" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_36">
+<GPSPosition targetPntRef="T17   ">
+<GPSQuality HDOP="0.800000" GDOP="1.649242" PDOP="1.442221" VDOP="1.200000" TDOP="0.800000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="6" GLONASSSatUsed="6" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_38">
+<GPSPosition targetPntRef="T18   ">
+<GPSQuality HDOP="1.400000" GDOP="2.376973" PDOP="2.051828" VDOP="1.500000" TDOP="1.200000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="5" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="5" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_40">
+<GPSPosition targetPntRef="T19   ">
+<GPSQuality HDOP="1.000000" GDOP="1.688194" PDOP="1.486607" VDOP="1.100000" TDOP="0.800000"/>
+<SatelliteInfo GPSSatTracked="5" GPSSatUsed="5" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="6" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0227" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_44">
+<GPSPosition targetPntRef="T20   ">
+<GPSQuality HDOP="2.000000" GDOP="3.407345" PDOP="2.828427" VDOP="2.000000" TDOP="1.900000"/>
+<SatelliteInfo GPSSatTracked="6" GPSSatUsed="4" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="8" GLONASSSatUsed="4" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0179" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_46">
+<GPSPosition targetPntRef="T21   ">
+<GPSQuality HDOP="1.000000" GDOP="1.870829" PDOP="1.640122" VDOP="1.300000" TDOP="0.900000"/>
+<SatelliteInfo GPSSatTracked="5" GPSSatUsed="5" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="7" GLONASSSatUsed="5" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0179" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+<GPSSetup uniqueID="GPSSetupID_48">
+<GPSPosition targetPntRef="T22   ">
+<GPSQuality HDOP="0.700000" GDOP="1.288410" PDOP="1.140175" VDOP="0.900000" TDOP="0.600000"/>
+<SatelliteInfo GPSSatTracked="7" GPSSatUsed="7" GALILEOSatTracked="0" GALILEOSatUsed="0" GLONASSSatTracked="8" GLONASSSatUsed="8" BEIDOUSatTracked="0" BEIDOUSatUsed="0"/>
+<RTKInfo referenceRef="RTCM-Ref 0179" networkSolution="true" networkType="MAC" dataFormat="RTCM v3" ipAddress="uk.nrtk.eu" port="7801" mountpoint="MAX-RTCMv3" insideRTKNetwork="Inside" GPUID="" numRefStationUsed="6" numRTKPositionUsed="5"/>
+</GPSPosition>
+</GPSSetup>
+</Survey>
+</HexagonLandXML>
+</LandXML>

@@ -25,13 +25,19 @@ Esta unidad se centra en el campo heurístico del Procesamiento de Lenguaje Natu
 - Retos reales (Kaggle Amazon Reviews) aplicando *Stopwords* NLTK, clasificaciones literarias (Galdós vs Pardo Bazán) o modelos de sátiras contextuales (Sarcasmo / Reuters / IMDB Dataset).
 - Utilización directa introductoria de *Transformers* asfálticos (Clasificadores y pipelines) llamando a repositorios robustos modernos de la suite y arquitectura *HuggingFace*. 
 
+### Transformers — Implementación desde cero (`Transformers/`)
+- Construcción paso a paso de un Transformer "mini" con NumPy puro: Tokenización y tabla de *Embedding*, *Positional Encoding* (seno/coseno), proyecciones *Q·K·V*, *Scaled Dot-Product Attention* con Softmax, y *Multi-Head Attention* con concatenación y proyección $W_O$.
+- Capas complementarias del bloque Transformer: *Feed-Forward Network* (ReLU), conexiones residuales (*Add*) y normalización (*LayerNorm*). Arquitectura completa *Encoder-Decoder* con *Masked Self-Attention* y *Cross-Attention* (Q del Decoder, K/V del Encoder).
+- Generación autoregresiva token a token con criterio de parada `[EOS]`, contrastando selección determinista (`argmax`) frente a muestreo estocástico (`random.choice`).
+- Traducción automática ES→EN utilizando el modelo pre-entrenado `Helsinki-NLP/opus-mt-es-en` de HuggingFace (`MarianMTModel` + `MarianTokenizer`), demostrando desambiguación contextual ("banco financiero" vs. "banco de peces").
+
 ## 🛠️ Tecnologías y Librerías
 | Herramienta | Uso en este tema |
 |---|---|
 | NLTK | Retención o descarte estático de las palabras léxicamente vacías (*stopwords*). |
 | Gensim (Word2Vec) | Importación y uso heurístico de modelos de incrustamiento de palabras vectorizadas clásicos e investigación semántica. |
 | TensorFlow (NLP Tools) | Capas recurrentes (`RNN`,`GRU`, `LSTM`) empaquetadas o embebidas para arquitecturas multiclase. Transformadores matriciales como Tokenizadores o Padding. |
-| HuggingFace Transformers | Capas introductorias directas de AutoModel, métricas modernas `evaluate` y librerías de `datasets`. |
+| HuggingFace Transformers | Capas introductorias directas de AutoModel, métricas modernas `evaluate` y librerías de `datasets`. Modelo `MarianMT` para traducción automática secuencia a secuencia. |
 
 ## 📁 Archivos
 | Archivo | Tipo | Descripción |
@@ -42,6 +48,8 @@ Esta unidad se centra en el campo heurístico del Procesamiento de Lenguaje Natu
 | `practica_nlp_word2vec.ipynb` y `word2vec.ipynb` | Notebook | Investigación técnica/gráfica de la distancia semántica coseno y la aplicación teórica de Gensim (Divergencias verbales/nominales). |
 | `comparacionRNNGRULSTM.ipynb` | Notebook | Módulo comparativo arquitectural para afianzar el entendimiento del flujo u olvido del estado cíclico (*state*). |
 | `sequence_classification.ipynb` | Notebook | Inferencia directa y evaluación de conjuntos literarios (IMDB) desde modelos precompilados de plataforma HuggingFace. |
+| `Transformers/practica_transformers.ipynb` | Notebook | Implementación didáctica desde cero de la arquitectura Transformer completa (Embedding → Positional Encoding → Q·K·V → Multi-Head Attention → FFN + Add&Norm → Encoder-Decoder → Generación autoregresiva) y traducción ES→EN con `MarianMT` de HuggingFace. |
+| `Transformers/PracticaTransformers.docx` | Documento | Enunciado y guía teórica de la práctica de Transformers. |
 
 ## 🔗 Relación con otros temas
 NLP requiere obligatoriamente del dominio y entendimiento vectorizado de la API Secuencial (UD2), con cierta abstracción de las secuencias LSTM/Temporal introducidas ligeramente en UD5 (*Series temporales*).

@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.2 http://www.landxml.org/schema/LandXML-1.2/LandXML-1.2.xsd" version="1.2" date="2018-04-20" time="05:12:27" readOnly="false" language="English">
+<Units>
+<Metric linearUnit="meter" areaUnit="squareMeter" volumeUnit="cubicMeter" angularUnit="decimal dd.mm.ss" latLongAngularUnit="decimal degrees" temperatureUnit="celsius" pressureUnit="milliBars"/>
+</Units>
+<CoordinateSystem name="OSGB36(02)" horizontalDatum="Local" verticalDatum="Local" ellipsoidName="GRS 1980" projectedCoordinateSystemName="UKTM" fileLocation="">
+</CoordinateSystem>
+<Application name="Smartworx Viva LandXML Export" manufacturer="Leica Geosystems AG" version="5.61" manufacturerURL="www.leica-geosystems.com">
+<Author company="Leica Geosystems AG" companyURL="www.leica-geosystems.com" timeStamp="2018-04-20T05:12:27"/>
+</Application>
+<CgPoints>
+<CgPoint name="DL47" oID="DL47" role="measured" timeStamp="2018-04-16T07:52:53">253363.656707 384741.853386 15.188019</CgPoint>
+<CgPoint name="DL46" oID="DL46" role="measured" timeStamp="2018-04-16T07:52:38">253363.623488 384741.837663 14.189008</CgPoint>
+<CgPoint name="DL45" oID="DL45" role="measured" timeStamp="2018-04-16T07:52:11">253366.882551 384739.131863 13.291570</CgPoint>
+<CgPoint name="DL44" oID="DL44" role="measured" timeStamp="2018-04-16T07:52:02">253366.813920 384739.030209 12.917824</CgPoint>
+<CgPoint name="DL43" oID="DL43" role="measured" timeStamp="2018-04-16T07:51:40">253361.389947 384735.986103 12.703057</CgPoint>
+<CgPoint name="DL42" oID="DL42" role="measured" timeStamp="2018-04-16T07:51:19">253359.727469 384739.392156 15.226658</CgPoint>
+<CgPoint name="DL41" oID="DL41" role="measured" timeStamp="2018-04-16T07:50:42">253329.775784 384700.747146 16.498156</CgPoint>
+<CgPoint name="DL40" oID="DL40" role="measured" timeStamp="2018-04-16T07:50:33">253329.793874 384700.694230 15.095683</CgPoint>
+<CgPoint name="DL39" oID="DL39" role="measured" timeStamp="2018-04-16T07:50:25">253329.793488 384700.693526 15.713286</CgPoint>
+<CgPoint name="DL38" oID="DL38" role="measured" timeStamp="2018-04-16T07:49:49">253269.547162 384695.962529 15.796335</CgPoint>
+<CgPoint name="DL37" oID="DL37" role="measured" timeStamp="2018-04-16T07:49:21">253309.489179 384700.922136 14.218684</CgPoint>
+<CgPoint name="DL36" oID="DL36" role="measured" timeStamp="2018-04-16T07:49:12">253309.467571 384700.912820 14.716778</CgPoint>
+<CgPoint name="DL35" oID="DL35" role="measured" timeStamp="2018-04-16T07:49:03">253348.821309 384717.811007 15.655134</CgPoint>
+<CgPoint name="DL34" oID="DL34" role="measured" timeStamp="2018-04-16T07:48:35">253263.052570 384688.304468 16.500439</CgPoint>
+<CgPoint name="DL33" oID="DL33" role="measured" timeStamp="2018-04-16T07:47:40">253356.952145 384735.499923 14.306314</CgPoint>
+<CgPoint name="DL32" oID="DL32" role="measured" timeStamp="2018-04-16T07:47:23">253356.761784 384735.472864 14.920477</CgPoint>
+<CgPoint name="DL31" oID="DL31" role="measured" timeStamp="2018-04-16T07:45:32">253344.962313 384734.478243 15.720226</CgPoint>
+<CgPoint name="DL30" oID="DL30" role="measured" timeStamp="2018-04-16T07:44:59">253343.369617 384734.163185 16.273191</CgPoint>
+<CgPoint name="DL29" oID="DL29" role="measured" timeStamp="2018-04-16T07:44:02">253343.685262 384728.980493 15.345664</CgPoint>
+<CgPoint name="DL28" oID="DL28" role="measured" timeStamp="2018-04-16T07:43:47">253343.757670 384728.983494 14.270479</CgPoint>
+<CgPoint name="DL27" oID="DL27" role="measured" timeStamp="2018-04-16T07:41:39">253349.140182 384717.192640 15.845252</CgPoint>
+<CgPoint name="DL26" oID="DL26" role="measured" timeStamp="2018-04-16T07:41:20">253351.524585 384712.557193 14.781783</CgPoint>
+<CgPoint name="DL25" oID="DL25" role="measured" timeStamp="2018-04-16T07:41:09">253352.738019 384712.572454 15.287171</CgPoint>
+<CgPoint name="DL24" oID="DL24" role="measured" timeStamp="2018-04-16T07:40:56">253352.760426 384712.629817 14.348949</CgPoint>
+<CgPoint name="DL23" oID="DL23" role="measured" timeStamp="2018-04-16T07:39:39">253351.049231 384719.500507 15.460650</CgPoint>
+<CgPoint name="DL22" oID="DL22" role="measured" timeStamp="2018-04-16T07:39:23">253351.068432 384719.484356 14.176007</CgPoint>
+<CgPoint name="DL21" oID="DL21" role="measured" timeStamp="2018-04-16T07:38:59">253353.924264 384721.271143 14.258467</CgPoint>
+<CgPoint name="DL20" oID="DL20" role="measured" timeStamp="2018-04-16T07:38:47">253353.889984 384721.234501 14.788339</CgPoint>
+<CgPoint name="DL19" oID="DL19" role="measured" timeStamp="2018-04-16T07:38:06">253353.878306 384721.270873 15.719723</CgPoint>
+<CgPoint name="DL18" oID="DL18" role="measured" timeStamp="2018-04-16T07:37:12">253360.705984 384722.674948 14.193253</CgPoint>
+<CgPoint name="DL17" oID="DL17" role="measured" timeStamp="2018-04-16T07:37:00">253360.846058 384722.796174 14.876816</CgPoint>
+<CgPoint name="DL16" oID="DL16" role="measured" timeStamp="2018-04-16T07:36:21">253363.472325 384703.077717 15.663684</CgPoint>
+<CgPoint name="DL15" oID="DL15" role="measured" timeStamp="2018-04-16T07:36:08">253359.863751 384706.398753 14.731186</CgPoint>
+<CgPoint name="DL14" oID="DL14" role="measured" timeStamp="2018-04-16T07:35:47">253365.183155 384705.570347 14.035746</CgPoint>
+<CgPoint name="DL13" oID="DL13" role="measured" timeStamp="2018-04-16T07:34:50">253366.372884 384701.111951 14.058813</CgPoint>
+<CgPoint name="DL12" oID="DL12" role="measured" timeStamp="2018-04-16T07:34:35">253366.454682 384700.915897 14.559180</CgPoint>
+<CgPoint name="DL11" oID="DL11" role="measured" timeStamp="2018-04-16T07:33:43">253377.227945 384704.846232 14.037086</CgPoint>
+<CgPoint name="DL10" oID="DL10" role="measured" timeStamp="2018-04-16T07:33:23">253377.293484 384704.903608 15.175328</CgPoint>
+<CgPoint name="DL09" oID="DL09" role="measured" timeStamp="2018-04-16T07:27:59">253381.963903 384705.973283 14.027806</CgPoint>
+<CgPoint name="DL08" oID="DL08" role="measured" timeStamp="2018-04-16T07:27:45">253382.041005 384706.030487 15.193062</CgPoint>
+<CgPoint name="DL07" oID="DL07" role="measured" timeStamp="2018-04-16T07:27:08">253389.928889 384698.989966 14.307378</CgPoint>
+<CgPoint name="DL06" oID="DL06" role="measured" timeStamp="2018-04-16T07:26:54">253390.098605 384698.958912 15.303949</CgPoint>
+<CgPoint name="DL05" oID="DL05" role="measured" timeStamp="2018-04-16T07:26:39">253389.795619 384700.005465 15.311681</CgPoint>
+<CgPoint name="DL04" oID="DL04" role="measured" timeStamp="2018-04-16T07:26:12">253385.104155 384699.345390 15.709565</CgPoint>
+<CgPoint name="DL03" oID="DL03" role="measured" timeStamp="2018-04-16T07:19:46">253402.082989 384691.150601 17.777358</CgPoint>
+<CgPoint name="DL02@7" oID="DL02" timeStamp="2018-04-16T07:17:44">253357.401000 384721.495000 14.405000</CgPoint>
+<CgPoint name="DL99" oID="DL99" role="control point" timeStamp="2018-04-16T07:17:44">253349.180000 384724.329000 14.450000</CgPoint>
+<CgPoint name="DL02" oID="DL02" role="control point" timeStamp="2018-04-16T07:17:44">253357.401000 384721.495000 14.405000</CgPoint>
+<CgPoint name="DL99@8" oID="DL99" role="measured" timeStamp="2018-04-16T07:17:43"></CgPoint>
+<CgPoint name="DL01" oID="DL01" role="control point" timeStamp="2018-04-16T07:13:04">253357.401000 384721.495000 14.405000</CgPoint>
+</CgPoints>
+<Survey>
+<SurveyHeader name="DIGLIS LOCK_0"/>
+<Equipment>
+<InstrumentDetails id="TPS_2" manufacturer="Leica Geosystems AG" model="TS12 P 2&quot; R1000" serialNumber="875762" horizCollimation="0.000000000000000" vertCollimation="0.000000000000000">
+<Corrections>
+</Corrections>
+</InstrumentDetails>
+</Equipment>
+<InstrumentSetup id="TPSSetupID_2_3" instrumentDetailsID="TPS_2" stationName="DL02" instrumentHeight="1.270000" orientationAzimuth="0.000000000000000">
+<InstrumentPoint pntRef="DL02@7" timeStamp="2018-04-16T07:17:44">253357.401000 384721.495000 14.405000</InstrumentPoint>
+</InstrumentSetup>
+<ObservationGroup id="oTPSSetupID_2_3">
+<TargetPoint name="DL02" pntRef="DL02@7" >253357.401000 384721.495000 14.405000</TargetPoint>
+<Backsight azimuth="160.584637636689190" targetHeight="1.270000" circle="160.584637636689190" setupID="TPSSetupID_2_3">
+<BacksightPoint name="DL99" pntRef="DL99" >253349.180000 384724.329000 14.450000</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_2_3" purpose="backsight" targetHeight="1.270000" horizAngle="160.584637636689190" zenithAngle="91.371953348609125" directFace="true" timeStamp="2018-04-16T07:17:43">
+<TargetPoint name="DL99" pntRef="DL99@8" ></TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="325.490775082054940" zenithAngle="87.461613279953326" horizDistance="54.011690" slopeDistance="54.052600" directFace="true" timeStamp="2018-04-16T07:19:46">
+<TargetPoint name="DL03" pntRef="DL03" >253402.082989 384691.150601 17.777358</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="321.212333438605640" zenithAngle="89.563949408402749" horizDistance="35.469283" slopeDistance="35.469300" directFace="true" timeStamp="2018-04-16T07:26:12">
+<TargetPoint name="DL04" pntRef="DL04" >253385.104155 384699.345390 15.709565</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="326.262760149840010" zenithAngle="90.320824021378201" horizDistance="38.874303" slopeDistance="38.876000" directFace="true" timeStamp="2018-04-16T07:26:39">
+<TargetPoint name="DL05" pntRef="DL05" >253389.795619 384700.005465 15.311681</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="325.252755589428720" zenithAngle="90.320776630326122" horizDistance="39.711568" slopeDistance="39.713300" directFace="true" timeStamp="2018-04-16T07:26:54">
+<TargetPoint name="DL06" pntRef="DL06" >253390.098605 384698.958912 15.303949</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="325.191864291690370" zenithAngle="91.584949532333184" horizDistance="39.554268" slopeDistance="39.577900" directFace="true" timeStamp="2018-04-16T07:27:08">
+<TargetPoint name="DL07" pntRef="DL07" >253389.928889 384698.989966 14.307378</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="327.531274450632790" zenithAngle="90.565720988434791" horizDistance="29.090909" slopeDistance="29.094900" directFace="true" timeStamp="2018-04-16T07:27:45">
+<TargetPoint name="DL08" pntRef="DL08" >253382.041005 384706.030487 15.193062</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="327.423783635406210" zenithAngle="93.144106879768501" horizDistance="29.056151" slopeDistance="29.102800" directFace="true" timeStamp="2018-04-16T07:27:59">
+<TargetPoint name="DL09" pntRef="DL09" >253381.963903 384705.973283 14.027806</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="320.101233781193910" zenithAngle="91.061868636593402" horizDistance="25.903382" slopeDistance="25.908200" directFace="true" timeStamp="2018-04-16T07:33:23">
+<TargetPoint name="DL10" pntRef="DL10" >253377.293484 384704.903608 15.175328</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="319.584684815305200" zenithAngle="93.371223277595007" horizDistance="25.889944" slopeDistance="25.941700" directFace="true" timeStamp="2018-04-16T07:33:43">
+<TargetPoint name="DL11" pntRef="DL11" >253377.227945 384704.846232 14.037086</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="293.444874970973840" zenithAngle="92.502890843510130" horizDistance="22.482630" slopeDistance="22.510300" directFace="true" timeStamp="2018-04-16T07:34:35">
+<TargetPoint name="DL12" pntRef="DL12" >253366.454682 384700.915897 14.559180</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="293.452651296309170" zenithAngle="94.090309110455863" horizDistance="22.270235" slopeDistance="22.328800" directFace="true" timeStamp="2018-04-16T07:34:50">
+<TargetPoint name="DL13" pntRef="DL13" >253366.372884 384701.111951 14.058813</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="296.023880264952080" zenithAngle="95.170262007490777" horizDistance="17.724460" slopeDistance="17.800100" directFace="true" timeStamp="2018-04-16T07:35:47">
+<TargetPoint name="DL14" pntRef="DL14" >253365.183155 384705.570347 14.035746</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="279.155551995610840" zenithAngle="93.315147801449228" horizDistance="15.295810" slopeDistance="15.324900" directFace="true" timeStamp="2018-04-16T07:36:08">
+<TargetPoint name="DL15" pntRef="DL15" >253359.863751 384706.398753 14.731186</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="288.144197554235800" zenithAngle="90.020063558657014" horizDistance="19.392197" slopeDistance="19.392200" directFace="true" timeStamp="2018-04-16T07:36:21">
+<TargetPoint name="DL16" pntRef="DL16" >253363.472325 384703.077717 15.663684</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="20.412828278888142" zenithAngle="102.134598440690950" horizDistance="3.682592" slopeDistance="3.768100" directFace="true" timeStamp="2018-04-16T07:37:00">
+<TargetPoint name="DL17" pntRef="DL17" >253360.846058 384722.796174 14.876816</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="19.385143603845300" zenithAngle="112.532813598674510" horizDistance="3.509301" slopeDistance="3.809300" directFace="true" timeStamp="2018-04-16T07:37:12">
+<TargetPoint name="DL18" pntRef="DL18" >253360.705984 384722.674948 14.193253</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="183.382567524186300" zenithAngle="89.162681283801078" horizDistance="3.529817" slopeDistance="3.530100" directFace="true" timeStamp="2018-04-16T07:38:06">
+<TargetPoint name="DL19" pntRef="DL19" >253353.878306 384721.270873 15.719723</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="184.143576545580170" zenithAngle="104.080850230147190" horizDistance="3.520666" slopeDistance="3.630600" directFace="true" timeStamp="2018-04-16T07:38:47">
+<TargetPoint name="DL20" pntRef="DL20" >253353.889984 384721.234501 14.788339</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="183.410247659200420" zenithAngle="112.073423618791130" horizDistance="3.483935" slopeDistance="3.760900" directFace="true" timeStamp="2018-04-16T07:38:59">
+<TargetPoint name="DL21" pntRef="DL21" >253353.924264 384721.271143 14.258467</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="197.365430586926240" zenithAngle="102.424971588252790" horizDistance="6.644104" slopeDistance="6.811100" directFace="true" timeStamp="2018-04-16T07:39:23">
+<TargetPoint name="DL22" pntRef="DL22" >253351.068432 384719.484356 14.176007</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="197.255735409407240" zenithAngle="91.503879720010815" horizDistance="6.657550" slopeDistance="6.661000" directFace="true" timeStamp="2018-04-16T07:39:39">
+<TargetPoint name="DL23" pntRef="DL23" >253351.049231 384719.500507 15.460650</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="242.221096870582470" zenithAngle="97.325629571370143" horizDistance="10.006318" slopeDistance="10.093800" directFace="true" timeStamp="2018-04-16T07:40:56">
+<TargetPoint name="DL24" pntRef="DL24" >253352.760426 384712.629817 14.348949</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="242.242929608874820" zenithAngle="92.122210147035560" horizDistance="10.067533" slopeDistance="10.075000" directFace="true" timeStamp="2018-04-16T07:41:09">
+<TargetPoint name="DL25" pntRef="DL25" >253352.738019 384712.572454 15.287171</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="236.403340321881470" zenithAngle="94.462441807040278" horizDistance="10.696572" slopeDistance="10.733800" directFace="true" timeStamp="2018-04-16T07:41:20">
+<TargetPoint name="DL26" pntRef="DL26" >253351.524585 384712.557193 14.781783</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="207.304027996156610" zenithAngle="88.571021748877541" horizDistance="9.314044" slopeDistance="9.315600" directFace="true" timeStamp="2018-04-16T07:41:39">
+<TargetPoint name="DL27" pntRef="DL27" >253349.140182 384717.192640 15.845252</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="151.141925460825410" zenithAngle="95.092437990542379" horizDistance="15.563354" slopeDistance="15.626600" directFace="true" timeStamp="2018-04-16T07:43:47">
+<TargetPoint name="DL28" pntRef="DL28" >253343.757670 384728.983494 14.270479</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="151.223388568110470" zenithAngle="91.122700800492780" horizDistance="15.625430" slopeDistance="15.628900" directFace="true" timeStamp="2018-04-16T07:44:02">
+<TargetPoint name="DL29" pntRef="DL29" >253343.685262 384728.980493 15.345664</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="137.552211553485250" zenithAngle="88.111548993831917" horizDistance="18.904037" slopeDistance="18.913500" directFace="true" timeStamp="2018-04-16T07:44:59">
+<TargetPoint name="DL30" pntRef="DL30" >253343.369617 384734.163185 16.273191</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="133.462233901010050" zenithAngle="89.512142917130618" horizDistance="17.980143" slopeDistance="17.980200" directFace="true" timeStamp="2018-04-16T07:45:32">
+<TargetPoint name="DL31" pntRef="DL31" >253344.962313 384734.478243 15.720226</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="92.370604030009574" zenithAngle="93.051195929010149" horizDistance="13.992472" slopeDistance="14.012800" directFace="true" timeStamp="2018-04-16T07:47:23">
+<TargetPoint name="DL32" pntRef="DL32" >253356.761784 384735.472864 14.920477</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="91.500847664152985" zenithAngle="95.344417005353904" horizDistance="14.012114" slopeDistance="14.078800" directFace="true" timeStamp="2018-04-16T07:47:40">
+<TargetPoint name="DL33" pntRef="DL33" >253356.952145 384735.499923 14.306314</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="199.225231631800630" zenithAngle="89.313913122138899" horizDistance="100.016187" slopeDistance="100.019600" directFace="true" timeStamp="2018-04-16T07:48:35">
+<TargetPoint name="DL34" pntRef="DL34" >253263.052570 384688.304468 16.500439</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="203.141670853421030" zenithAngle="90.071897489787361" horizDistance="9.337179" slopeDistance="9.337200" directFace="true" timeStamp="2018-04-16T07:49:03">
+<TargetPoint name="DL35" pntRef="DL35" >253348.821309 384717.811007 15.655134</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="203.141769042975480" zenithAngle="91.030916244695220" horizDistance="52.165504" slopeDistance="52.174300" directFace="true" timeStamp="2018-04-16T07:49:12">
+<TargetPoint name="DL36" pntRef="DL36" >253309.467571 384700.912820 14.716778</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="203.141755431064410" zenithAngle="91.360017429655258" horizDistance="52.141973" slopeDistance="52.162300" directFace="true" timeStamp="2018-04-16T07:49:21">
+<TargetPoint name="DL37" pntRef="DL37" >253309.489179 384700.922136 14.218684</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="196.121855770914660" zenithAngle="89.552773287160207" horizDistance="91.488819" slopeDistance="91.488900" directFace="true" timeStamp="2018-04-16T07:49:49">
+<TargetPoint name="DL38" pntRef="DL38" >253269.547162 384695.962529 15.796335</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="216.594914041548520" zenithAngle="89.561203227057533" horizDistance="34.566979" slopeDistance="34.567000" directFace="true" timeStamp="2018-04-16T07:50:25">
+<TargetPoint name="DL39" pntRef="DL39" >253329.793488 384700.693526 15.713286</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="216.594716996706150" zenithAngle="90.573708400959248" horizDistance="34.566247" slopeDistance="34.571100" directFace="true" timeStamp="2018-04-16T07:50:33">
+<TargetPoint name="DL40" pntRef="DL40" >253329.793874 384700.694230 15.095683</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="216.542986143859880" zenithAngle="88.380698561352958" horizDistance="34.548893" slopeDistance="34.558700" directFace="true" timeStamp="2018-04-16T07:50:42">
+<TargetPoint name="DL41" pntRef="DL41" >253329.775784 384700.747146 16.498156</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="82.353694260697452" zenithAngle="91.252323035549765" horizDistance="18.047733" slopeDistance="18.053300" directFace="true" timeStamp="2018-04-16T07:51:19">
+<TargetPoint name="DL42" pntRef="DL42" >253359.727469 384739.392156 15.226658</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="74.363396664025345" zenithAngle="101.110612611218540" horizDistance="15.030095" slopeDistance="15.321100" directFace="true" timeStamp="2018-04-16T07:51:40">
+<TargetPoint name="DL43" pntRef="DL43" >253361.389947 384735.986103 12.703057</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="61.462297059835109" zenithAngle="97.531509496403686" horizDistance="19.901925" slopeDistance="20.092000" directFace="true" timeStamp="2018-04-16T07:52:01">
+<TargetPoint name="DL44" pntRef="DL44" >253366.813920 384739.030209 12.917824</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="61.441533505782807" zenithAngle="96.471679094484827" horizDistance="20.023954" slopeDistance="20.165300" directFace="true" timeStamp="2018-04-16T07:52:11">
+<TargetPoint name="DL45" pntRef="DL45" >253366.882551 384739.131863 13.291570</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="72.593114502877057" zenithAngle="93.594519681256799" horizDistance="21.273065" slopeDistance="21.324900" directFace="true" timeStamp="2018-04-16T07:52:38">
+<TargetPoint name="DL46" pntRef="DL46" >253363.623488 384741.837663 14.189008</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_2_3" purpose="normal" targetHeight="0.000000" horizAngle="72.550804061961045" zenithAngle="91.183578151494586" horizDistance="21.297834" slopeDistance="21.303400" directFace="true" timeStamp="2018-04-16T07:52:53">
+<TargetPoint name="DL47" pntRef="DL47" >253363.656707 384741.853386 15.188019</TargetPoint>
+</RawObservation>
+</ObservationGroup>
+</Survey>
+<HexagonLandXML xmlns="http://xml.hexagon.com/schema/HeXML-1.6" xsi:schemaLocation="http://xml.hexagon.com/schema/HeXML-1.6 http://xml.hexagon.com/schema/HeXML-1.6.xsd" xmlns:landxml="http://www.landxml.org/schema/LandXML-1.2" averagingMode="Average" averagingMethod="Weighted" averagingPosLimit="0.050000" averagingHgtLimit="0.075000">
+<CoordinateSystem name="OSGB36(02)" type="classic" residualDistributionKind="no distribution">
+<Ellipsoid name="GRS 1980" SemiMajorAxis="6378137.000000" ReciprocFlattening="298.257222"/>
+<Projection name="UKTM">
+<TransverseMercatorProjection falseE="400000.000000" falseN="-100000.000000" lambda0="-2.000000000000000" phi0="49.000000000000000" zoneWidth="14.596000000000000" scale0="0.999601271700000"/>
+</Projection>
+<GeoidModel name="OSGM02GB" geodeticDatumKind="Local" coordinateSystemKind="grid"><landxml:DocFileRef name="OSGM02GB.GEM" location="-"/>
+</GeoidModel>
+<CsCsModel name="OSTN02 (GB)" csCsModelKind="grid"><landxml:DocFileRef name="OSTN02 (GB).csc" location="-"/>
+</CsCsModel>
+</CoordinateSystem>
+<Point uniqueID="DL47" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916391.718868" y="-152133.368320" z="5015046.114303"/>
+<Geodetic lat="52.178324909640111" lon="-2.224552648230108" hghtE="64.739704" hghthO="15.188018"/>
+</WGS84>
+<Local>
+<Cartesian x="3916391.718868" y="-152133.368320" z="5015046.114303"/>
+<Geodetic lat="52.178324910553570" lon="-2.224552648230108" hghtE="64.739769" hghthO="15.188019"/>
+<Grid e="384741.853386" n="253363.656707" hghtE="64.739769" hghthO="15.188019"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000012854" Qxy="0.0000024483" Qxz="-0.0000000586" Qyy="0.0000085006" Qyz="-0.0000001906" Qzz="0.0000005379" MeanError="1.000000" CQ3D="0.003213" CQPos="0.003128" CQHeight="0.000733"/>
+</Point>
+<Point uniqueID="DL46" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916391.132393" y="-152133.361176" z="5015045.304753"/>
+<Geodetic lat="52.178324610545388" lon="-2.224552876662899" hghtE="63.740693" hghthO="14.189007"/>
+</WGS84>
+<Local>
+<Cartesian x="3916391.132393" y="-152133.361176" z="5015045.304753"/>
+<Geodetic lat="52.178324611458841" lon="-2.224552876662899" hghtE="63.740758" hghthO="14.189008"/>
+<Grid e="384741.837663" n="253363.623488" hghtE="63.740758" hghthO="14.189008"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000012748" Qxy="0.0000024289" Qxz="-0.0000001774" Qyy="0.0000084724" Qyz="-0.0000005799" Qzz="0.0000005768" MeanError="1.000000" CQ3D="0.003213" CQPos="0.003122" CQHeight="0.000759"/>
+</Point>
+<Point uniqueID="DL45" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916387.910226" y="-152135.954976" z="5015046.590131"/>
+<Geodetic lat="52.178353836418225" lon="-2.224592594521697" hghtE="62.843419" hghthO="13.291570"/>
+</WGS84>
+<Local>
+<Cartesian x="3916387.910226" y="-152135.954976" z="5015046.590131"/>
+<Geodetic lat="52.178353837331684" lon="-2.224592594521697" hghtE="62.843485" hghthO="13.291570"/>
+<Grid e="384739.131863" n="253366.882551" hghtE="62.843485" hghthO="13.291570"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000024106" Qxy="0.0000036076" Qxz="-0.0000004872" Qyy="0.0000071817" Qyz="-0.0000009062" Qzz="0.0000006004" MeanError="1.000000" CQ3D="0.003193" CQPos="0.003097" CQHeight="0.000775"/>
+</Point>
+<Point uniqueID="DL44" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916387.731721" y="-152136.049599" z="5015046.252608"/>
+<Geodetic lat="52.178353216553461" lon="-2.224594078035439" hghtE="62.469677" hghthO="12.917823"/>
+</WGS84>
+<Local>
+<Cartesian x="3916387.731721" y="-152136.049599" z="5015046.252608"/>
+<Geodetic lat="52.178353217466913" lon="-2.224594078035439" hghtE="62.469742" hghthO="12.917824"/>
+<Grid e="384739.030209" n="253366.813920" hghtE="62.469742" hghthO="12.917824"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000023920" Qxy="0.0000035888" Qxz="-0.0000005637" Qyy="0.0000071511" Qyz="-0.0000010501" Qzz="0.0000006395" MeanError="1.000000" CQ3D="0.003191" CQPos="0.003089" CQHeight="0.000800"/>
+</Point>
+<Point uniqueID="DL43" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916391.773068" y="-152139.237361" z="5015042.749855"/>
+<Geodetic lat="52.178304366803474" lon="-2.224638350625994" hghtE="62.254959" hghthO="12.703057"/>
+</WGS84>
+<Local>
+<Cartesian x="3916391.773068" y="-152139.237361" z="5015042.749855"/>
+<Geodetic lat="52.178304367716933" lon="-2.224638350625994" hghtE="62.255025" hghthO="12.703057"/>
+<Grid e="384735.986103" n="253361.389947" hghtE="62.255025" hghthO="12.703057"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000008701" Qxy="0.0000021965" Qxz="-0.0000004499" Qyy="0.0000082449" Qyz="-0.0000016345" Qzz="0.0000006111" MeanError="1.000000" CQ3D="0.003119" CQPos="0.003019" CQHeight="0.000782"/>
+</Point>
+<Point uniqueID="DL42" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916394.756202" y="-152135.938171" z="5015043.729777"/>
+<Geodetic lat="52.178289514763648" lon="-2.224588464288627" hghtE="64.778389" hghthO="15.226658"/>
+</WGS84>
+<Local>
+<Cartesian x="3916394.756202" y="-152135.938171" z="5015043.729777"/>
+<Geodetic lat="52.178289515677100" lon="-2.224588464288627" hghtE="64.778454" hghthO="15.226658"/>
+<Grid e="384739.392156" n="253359.727469" hghtE="64.778454" hghthO="15.226658"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000005295" Qxy="0.0000011287" Qxz="-0.0000000283" Qyy="0.0000090658" Qyz="-0.0000002175" Qzz="0.0000003885" MeanError="1.000000" CQ3D="0.003160" CQPos="0.003098" CQHeight="0.000623"/>
+</Point>
+<Point uniqueID="DL41" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916417.784595" y="-152175.428956" z="5015026.287579"/>
+<Geodetic lat="52.178019153296368" lon="-2.225152262172156" hghtE="66.051088" hghthO="16.498156"/>
+</WGS84>
+<Local>
+<Cartesian x="3916417.784595" y="-152175.428956" z="5015026.287579"/>
+<Geodetic lat="52.178019154209821" lon="-2.225152262172156" hghtE="66.051154" hghthO="16.498156"/>
+<Grid e="384700.747146" n="253329.775784" hghtE="66.051154" hghthO="16.498156"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000065254" Qxy="0.0000038473" Qxz="-0.0000001526" Qyy="0.0000042923" Qyz="-0.0000001146" Qzz="0.0000014081" MeanError="1.000000" CQ3D="0.003497" CQPos="0.003289" CQHeight="0.001187"/>
+</Point>
+<Point uniqueID="DL40" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916416.909023" y="-152175.447968" z="5015025.190737"/>
+<Geodetic lat="52.178019314460073" lon="-2.225153036848084" hghtE="64.648619" hghthO="15.095682"/>
+</WGS84>
+<Local>
+<Cartesian x="3916416.909023" y="-152175.447968" z="5015025.190737"/>
+<Geodetic lat="52.178019315373540" lon="-2.225153036848083" hghtE="64.648684" hghthO="15.095683"/>
+<Grid e="384700.694230" n="253329.793874" hghtE="64.648684" hghthO="15.095683"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000065156" Qxy="0.0000038513" Qxz="0.0000001073" Qyy="0.0000043059" Qyz="0.0000000808" Qzz="0.0000014068" MeanError="1.000000" CQ3D="0.003497" CQPos="0.003290" CQHeight="0.001186"/>
+</Point>
+<Point uniqueID="DL39" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916417.287736" y="-152175.463386" z="5015025.678356"/>
+<Geodetic lat="52.178019310975479" lon="-2.225153047123710" hghtE="65.266222" hghthO="15.713285"/>
+</WGS84>
+<Local>
+<Cartesian x="3916417.287736" y="-152175.463386" z="5015025.678356"/>
+<Geodetic lat="52.178019311888939" lon="-2.225153047123709" hghtE="65.266287" hghthO="15.713286"/>
+<Grid e="384700.693526" n="253329.793488" hghtE="65.266287" hghthO="15.713286"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000065170" Qxy="0.0000038523" Qxz="-0.0000000071" Qyy="0.0000043068" Qyz="-0.0000000053" Qzz="0.0000014043" MeanError="1.000000" CQ3D="0.003497" CQPos="0.003290" CQHeight="0.001185"/>
+</Point>
+<Point uniqueID="DL38" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916464.746356" y="-152181.856796" z="5014988.775465"/>
+<Geodetic lat="52.177477524882541" lon="-2.225219501598125" hghtE="65.348565" hghthO="15.796335"/>
+</WGS84>
+<Local>
+<Cartesian x="3916464.746356" y="-152181.856796" z="5014988.775465"/>
+<Geodetic lat="52.177477525796000" lon="-2.225219501598125" hghtE="65.348631" hghthO="15.796335"/>
+<Grid e="384695.962529" n="253269.547162" hghtE="65.348631" hghthO="15.796335"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000101084" Qxy="0.0000000789" Qxz="-0.0000000004" Qyy="0.0000098598" Qyz="-0.0000000001" Qzz="0.0000098369" MeanError="1.000000" CQ3D="0.005459" CQPos="0.004469" CQHeight="0.003136"/>
+</Point>
+<Point uniqueID="DL37" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916432.415682" y="-152175.759298" z="5015012.042023"/>
+<Geodetic lat="52.177836768239018" lon="-2.225148783237171" hghtE="63.771304" hghthO="14.218684"/>
+</WGS84>
+<Local>
+<Cartesian x="3916432.415682" y="-152175.759298" z="5015012.042023"/>
+<Geodetic lat="52.177836769152478" lon="-2.225148783237172" hghtE="63.771369" hghthO="14.218684"/>
+<Grid e="384700.922136" n="253309.489179" hghtE="63.771369" hghthO="14.218684"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000086298" Qxy="0.0000023336" Qxz="0.0000001651" Qyy="0.0000041972" Qyz="0.0000000709" Qzz="0.0000032027" MeanError="1.000000" CQ3D="0.004004" CQPos="0.003581" CQHeight="0.001790"/>
+</Point>
+<Point uniqueID="DL36" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916432.737616" y="-152175.781067" z="5015012.422202"/>
+<Geodetic lat="52.177836573702855" lon="-2.225148918496307" hghtE="64.269397" hghthO="14.716777"/>
+</WGS84>
+<Local>
+<Cartesian x="3916432.737616" y="-152175.781067" z="5015012.422202"/>
+<Geodetic lat="52.177836574616322" lon="-2.225148918496307" hghtE="64.269463" hghthO="14.716778"/>
+<Grid e="384700.912820" n="253309.467571" hghtE="64.269463" hghthO="14.716778"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000086328" Qxy="0.0000023336" Qxz="0.0000001086" Qyy="0.0000042001" Qyz="0.0000000467" Qzz="0.0000032013" MeanError="1.000000" CQ3D="0.004004" CQPos="0.003582" CQHeight="0.001789"/>
+</Point>
+<Point uniqueID="DL35" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916402.847220" y="-152157.824399" z="5015037.337399"/>
+<Geodetic lat="52.178190860592849" lon="-2.224903579403348" hghtE="65.207624" hghthO="15.655134"/>
+</WGS84>
+<Local>
+<Cartesian x="3916402.847220" y="-152157.824399" z="5015037.337399"/>
+<Geodetic lat="52.178190861506316" lon="-2.224903579403348" hghtE="65.207690" hghthO="15.655134"/>
+<Grid e="384717.811007" n="253348.821309" hghtE="65.207690" hghthO="15.655134"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000077098" Qxy="0.0000032665" Qxz="0.0000000176" Qyy="0.0000015050" Qyz="0.0000000076" Qzz="0.0000001025" MeanError="1.000000" CQ3D="0.003052" CQPos="0.003036" CQHeight="0.000320"/>
+</Point>
+<Point uniqueID="DL34" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916470.028409" y="-152189.708649" z="5014985.333030"/>
+<Geodetic lat="52.177418920590632" lon="-2.225331198573792" hghtE="66.052902" hghthO="16.500438"/>
+</WGS84>
+<Local>
+<Cartesian x="3916470.028409" y="-152189.708649" z="5014985.333030"/>
+<Geodetic lat="52.177418921504099" lon="-2.225331198573791" hghtE="66.052967" hghthO="16.500439"/>
+<Grid e="384688.304468" n="253263.052570" hghtE="66.052967" hghthO="16.500439"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000104073" Qxy="-0.0000004745" Qxz="0.0000000118" Qyy="0.0000115891" Qyz="0.0000000041" Qzz="0.0000117567" MeanError="1.000000" CQ3D="0.005810" CQPos="0.004690" CQHeight="0.003429"/>
+</Point>
+<Point uniqueID="DL33" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916396.242573" y="-152139.883976" z="5015041.292949"/>
+<Geodetic lat="52.178264454517134" lon="-2.224645259887484" hghtE="63.858171" hghthO="14.306314"/>
+</WGS84>
+<Local>
+<Cartesian x="3916396.242573" y="-152139.883976" z="5015041.292949"/>
+<Geodetic lat="52.178264455430600" lon="-2.224645259887484" hghtE="63.858236" hghthO="14.306314"/>
+<Grid e="384735.499923" n="253356.952145" hghtE="63.858236" hghthO="14.306314"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000002347" Qxy="-0.0000001231" Qxz="0.0000000120" Qyy="0.0000040728" Qyz="-0.0000003753" Qzz="0.0000002696" MeanError="1.000000" CQ3D="0.002139" CQPos="0.002075" CQHeight="0.000519"/>
+</Point>
+<Point uniqueID="DL32" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916396.768252" y="-152139.930897" z="5015041.661257"/>
+<Geodetic lat="52.178262742291892" lon="-2.224645646999110" hghtE="64.472329" hghthO="14.920476"/>
+</WGS84>
+<Local>
+<Cartesian x="3916396.768252" y="-152139.930897" z="5015041.661257"/>
+<Geodetic lat="52.178262743205337" lon="-2.224645646999109" hghtE="64.472395" hghthO="14.920477"/>
+<Grid e="384735.472864" n="253356.761784" hghtE="64.472395" hghthO="14.920477"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000002382" Qxy="-0.0000001767" Qxz="0.0000000095" Qyy="0.0000040936" Qyz="-0.0000002085" Qzz="0.0000002420" MeanError="1.000000" CQ3D="0.002139" CQPos="0.002081" CQHeight="0.000492"/>
+</Point>
+<Point uniqueID="DL31" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916406.540867" y="-152141.269741" z="5015035.052531"/>
+<Geodetic lat="52.178156629601347" lon="-2.224659658764140" hghtE="65.271945" hghthO="15.720226"/>
+</WGS84>
+<Local>
+<Cartesian x="3916406.540867" y="-152141.269741" z="5015035.052531"/>
+<Geodetic lat="52.178156630514813" lon="-2.224659658764140" hghtE="65.272011" hghthO="15.720226"/>
+<Grid e="384734.478243" n="253344.962313" hghtE="65.272011" hghthO="15.720226"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000021819" Qxy="-0.0000018809" Qxz="-0.0000000065" Qyy="0.0000023431" Qyz="0.0000000068" Qzz="0.0000003800" MeanError="1.000000" CQ3D="0.002215" CQPos="0.002127" CQHeight="0.000616"/>
+</Point>
+<Point uniqueID="DL30" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916408.126082" y="-152141.641806" z="5015034.511670"/>
+<Geodetic lat="52.178142301452866" lon="-2.224664194195209" hghtE="65.824899" hghthO="16.273191"/>
+</WGS84>
+<Local>
+<Cartesian x="3916408.126082" y="-152141.641806" z="5015034.511670"/>
+<Geodetic lat="52.178142302366318" lon="-2.224664194195209" hghtE="65.824964" hghthO="16.273191"/>
+<Grid e="384734.163185" n="253343.369617" hghtE="65.824964" hghthO="16.273191"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000024744" Qxy="-0.0000018548" Qxz="-0.0000000876" Qyy="0.0000020946" Qyz="0.0000000791" Qzz="0.0000004241" MeanError="1.000000" CQ3D="0.002235" CQPos="0.002138" CQHeight="0.000651"/>
+</Point>
+<Point uniqueID="DL29" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916407.120000" y="-152146.792286" z="5015033.962973"/>
+<Geodetic lat="52.178144995107282" lon="-2.224740001441432" hghtE="64.897600" hghthO="15.345663"/>
+</WGS84>
+<Local>
+<Cartesian x="3916407.120000" y="-152146.792286" z="5015033.962973"/>
+<Geodetic lat="52.178144996020741" lon="-2.224740001441432" hghtE="64.897666" hghthO="15.345664"/>
+<Grid e="384728.980493" n="253343.685262" hghtE="64.897666" hghthO="15.345664"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000032436" Qxy="-0.0000016136" Qxz="0.0000000710" Qyy="0.0000011676" Qyz="-0.0000000387" Qzz="0.0000002888" MeanError="1.000000" CQ3D="0.002168" CQPos="0.002100" CQHeight="0.000537"/>
+</Point>
+<Point uniqueID="DL28" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916406.404109" y="-152146.761695" z="5015033.158087"/>
+<Geodetic lat="52.178145646180951" lon="-2.224739960832880" hghtE="63.822416" hghthO="14.270479"/>
+</WGS84>
+<Local>
+<Cartesian x="3916406.404109" y="-152146.761695" z="5015033.158087"/>
+<Geodetic lat="52.178145647094404" lon="-2.224739960832880" hghtE="63.822481" hghthO="14.270479"/>
+<Grid e="384728.983494" n="253343.757670" hghtE="63.822481" hghthO="14.270479"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000032128" Qxy="-0.0000016072" Qxz="0.0000003013" Qyy="0.0000011668" Qyz="-0.0000001654" Qzz="0.0000003180" MeanError="1.000000" CQ3D="0.002167" CQPos="0.002093" CQHeight="0.000564"/>
+</Point>
+<Point uniqueID="DL27" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916402.689393" y="-152158.438326" z="5015037.682041"/>
+<Geodetic lat="52.178193710252913" lon="-2.224912637005494" hghtE="65.397773" hghthO="15.845252"/>
+</WGS84>
+<Local>
+<Cartesian x="3916402.689393" y="-152158.438326" z="5015037.682041"/>
+<Geodetic lat="52.178193711166379" lon="-2.224912637005494" hghtE="65.397838" hghthO="15.845252"/>
+<Grid e="384717.192640" n="253349.140182" hghtE="65.397838" hghthO="15.845252"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000032261" Qxy="0.0000016271" Qxz="-0.0000000644" Qyy="0.0000009494" Qyz="-0.0000000335" Qzz="0.0000001033" MeanError="1.000000" CQ3D="0.002069" CQPos="0.002043" CQHeight="0.000321"/>
+</Point>
+<Point uniqueID="DL26" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916399.986085" y="-152162.981411" z="5015038.296087"/>
+<Geodetic lat="52.178215018486569" lon="-2.224980535034475" hghtE="64.334536" hghthO="14.781783"/>
+</WGS84>
+<Local>
+<Cartesian x="3916399.986085" y="-152162.981411" z="5015038.296087"/>
+<Geodetic lat="52.178215019400028" lon="-2.224980535034475" hghtE="64.334601" hghthO="14.781783"/>
+<Grid e="384712.557193" n="253351.524585" hghtE="64.334601" hghthO="14.781783"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000013189" Qxy="0.0000018015" Qxz="0.0000001800" Qyy="0.0000028745" Qyz="0.0000002738" Qzz="0.0000001628" MeanError="1.000000" CQ3D="0.002087" CQPos="0.002048" CQHeight="0.000403"/>
+</Point>
+<Point uniqueID="DL25" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916399.337994" y="-152162.944717" z="5015039.439738"/>
+<Geodetic lat="52.178225928481112" lon="-2.224980366836607" hghtE="64.839943" hghthO="15.287170"/>
+</WGS84>
+<Local>
+<Cartesian x="3916399.337994" y="-152162.944717" z="5015039.439738"/>
+<Geodetic lat="52.178225929394571" lon="-2.224980366836606" hghtE="64.840008" hghthO="15.287171"/>
+<Grid e="384712.572454" n="253352.738019" hghtE="64.840008" hghthO="15.287171"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000009678" Qxy="0.0000016239" Qxz="0.0000000706" Qyy="0.0000032265" Qyz="0.0000001351" Qzz="0.0000001252" MeanError="1.000000" CQ3D="0.002078" CQPos="0.002048" CQHeight="0.000354"/>
+</Point>
+<Point uniqueID="DL24" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916398.747492" y="-152162.864416" z="5015038.712467"/>
+<Geodetic lat="52.178226131528170" lon="-2.224979528963351" hghtE="63.901717" hghthO="14.348948"/>
+</WGS84>
+<Local>
+<Cartesian x="3916398.747492" y="-152162.864416" z="5015038.712467"/>
+<Geodetic lat="52.178226132441630" lon="-2.224979528963350" hghtE="63.901782" hghthO="14.348949"/>
+<Grid e="384712.629817" n="253352.760426" hghtE="63.901782" hghthO="14.348949"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000009554" Qxy="0.0000016004" Qxz="0.0000002393" Qyy="0.0000031750" Qyz="0.0000004571" Qzz="0.0000001881" MeanError="1.000000" CQ3D="0.002078" CQPos="0.002032" CQHeight="0.000434"/>
+</Point>
+<Point uniqueID="DL23" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916401.029968" y="-152156.069283" z="5015038.553687"/>
+<Geodetic lat="52.178210938127840" lon="-2.224878972610573" hghtE="65.013102" hghthO="15.460650"/>
+</WGS84>
+<Local>
+<Cartesian x="3916401.029968" y="-152156.069283" z="5015038.553687"/>
+<Geodetic lat="52.178210939041293" lon="-2.224878972610573" hghtE="65.013167" hghthO="15.460650"/>
+<Grid e="384719.500507" n="253351.049231" hghtE="65.013167" hghthO="15.460650"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000036906" Qxy="0.0000011425" Qxz="0.0000001228" Qyy="0.0000004108" Qyz="0.0000000386" Qzz="0.0000000563" MeanError="1.000000" CQ3D="0.002039" CQPos="0.002025" CQHeight="0.000237"/>
+</Point>
+<Point uniqueID="DL22" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916400.227057" y="-152156.054318" z="5015037.550667"/>
+<Geodetic lat="52.178211110306137" lon="-2.224879209675858" hghtE="63.728459" hghthO="14.176007"/>
+</WGS84>
+<Local>
+<Cartesian x="3916400.227057" y="-152156.054318" z="5015037.550667"/>
+<Geodetic lat="52.178211111219589" lon="-2.224879209675858" hghtE="63.728524" hghthO="14.176007"/>
+<Grid e="384719.484356" n="253351.068432" hghtE="63.728524" hghthO="14.176007"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000035121" Qxy="0.0000010986" Qxz="0.0000008185" Qyy="0.0000004007" Qyz="0.0000002599" Qzz="0.0000002483" MeanError="1.000000" CQ3D="0.002040" CQPos="0.001978" CQHeight="0.000498"/>
+</Point>
+<Point uniqueID="DL21" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916398.087140" y="-152154.191214" z="5015039.371102"/>
+<Geodetic lat="52.178236835872241" lon="-2.224853208537679" hghtE="63.810884" hghthO="14.258467"/>
+</WGS84>
+<Local>
+<Cartesian x="3916398.087140" y="-152154.191214" z="5015039.371102"/>
+<Geodetic lat="52.178236836785700" lon="-2.224853208537678" hghtE="63.810950" hghthO="14.258467"/>
+<Grid e="384721.271143" n="253353.924264" hghtE="63.810950" hghthO="14.258467"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000034465" Qxy="0.0000002210" Qxz="0.0000013975" Qyy="0.0000000285" Qyz="0.0000000900" Qzz="0.0000005860" MeanError="1.000000" CQ3D="0.002015" CQPos="0.001864" CQHeight="0.000766"/>
+</Point>
+<Point uniqueID="DL20" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916398.437555" y="-152154.241405" z="5015039.768561"/>
+<Geodetic lat="52.178236526657749" lon="-2.224853742847068" hghtE="64.340756" hghthO="14.788338"/>
+</WGS84>
+<Local>
+<Cartesian x="3916398.437555" y="-152154.241405" z="5015039.768561"/>
+<Geodetic lat="52.178236527571215" lon="-2.224853742847068" hghtE="64.340821" hghthO="14.788339"/>
+<Grid e="384721.234501" n="253353.889984" hghtE="64.340821" hghthO="14.788339"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000037690" Qxy="0.0000002786" Qxz="0.0000009479" Qyy="0.0000000352" Qyz="0.0000000703" Qzz="0.0000002549" MeanError="1.000000" CQ3D="0.002015" CQPos="0.001950" CQHeight="0.000505"/>
+</Point>
+<Point uniqueID="DL19" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916399.018803" y="-152154.227538" z="5015040.497187"/>
+<Geodetic lat="52.178236422673614" lon="-2.224853210407822" hghtE="65.272140" hghthO="15.719722"/>
+</WGS84>
+<Local>
+<Cartesian x="3916399.018803" y="-152154.227538" z="5015040.497187"/>
+<Geodetic lat="52.178236423587080" lon="-2.224853210407822" hghtE="65.272205" hghthO="15.719723"/>
+<Grid e="384721.270873" n="253353.878306" hghtE="65.272205" hghthO="15.719723"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000040115" Qxy="0.0000002543" Qxz="-0.0000000507" Qyy="0.0000000308" Qyz="-0.0000000032" Qzz="0.0000000153" MeanError="1.000000" CQ3D="0.002014" CQPos="0.002011" CQHeight="0.000124"/>
+</Point>
+<Point uniqueID="DL18" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916392.742301" y="-152152.599186" z="5015043.482578"/>
+<Geodetic lat="52.178297847084927" lon="-2.224832985979486" hghtE="63.745712" hghthO="14.193253"/>
+</WGS84>
+<Local>
+<Cartesian x="3916392.742301" y="-152152.599186" z="5015043.482578"/>
+<Geodetic lat="52.178297847998373" lon="-2.224832985979486" hghtE="63.745778" hghthO="14.193253"/>
+<Grid e="384722.674948" n="253360.705984" hghtE="63.745778" hghthO="14.193253"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000030379" Qxy="0.0000010794" Qxz="-0.0000013545" Qyy="0.0000003998" Qyz="-0.0000004836" Qzz="0.0000006243" MeanError="1.000000" CQ3D="0.002015" CQPos="0.001854" CQHeight="0.000790"/>
+</Point>
+<Point uniqueID="DL17" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916393.054932" y="-152152.490403" z="5015044.108697"/>
+<Geodetic lat="52.178299109822994" lon="-2.224831219479474" hghtE="64.429271" hghthO="14.876815"/>
+</WGS84>
+<Local>
+<Cartesian x="3916393.054932" y="-152152.490403" z="5015044.108697"/>
+<Geodetic lat="52.178299110736454" lon="-2.224831219479474" hghtE="64.429336" hghthO="14.876816"/>
+<Grid e="384722.796174" n="253360.846058" hghtE="64.429336" hghthO="14.876816"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000033714" Qxy="0.0000012674" Qxz="-0.0000007773" Qyy="0.0000004946" Qyz="-0.0000002936" Qzz="0.0000001968" MeanError="1.000000" CQ3D="0.002016" CQPos="0.001966" CQHeight="0.000444"/>
+</Point>
+<Point uniqueID="DL16" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916390.745894" y="-152172.149723" z="5015046.304574"/>
+<Geodetic lat="52.178322172356090" lon="-2.225119707133652" hghtE="65.217021" hghthO="15.663683"/>
+</WGS84>
+<Local>
+<Cartesian x="3916390.745894" y="-152172.149723" z="5015046.304574"/>
+<Geodetic lat="52.178322173269542" lon="-2.225119707133652" hghtE="65.217086" hghthO="15.663684"/>
+<Grid e="384703.077717" n="253363.472325" hghtE="65.217086" hghthO="15.663684"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000013038" Qxy="-0.0000026143" Qxz="-0.0000000016" Qyy="0.0000083724" Qyz="0.0000000049" Qzz="0.0000004420" MeanError="1.000000" CQ3D="0.003181" CQPos="0.003111" CQHeight="0.000665"/>
+</Point>
+<Point uniqueID="DL15" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916393.145192" y="-152168.906934" z="5015043.360435"/>
+<Geodetic lat="52.178289821474586" lon="-2.225070975718058" hghtE="64.284328" hghthO="14.731186"/>
+</WGS84>
+<Local>
+<Cartesian x="3916393.145192" y="-152168.906934" z="5015043.360435"/>
+<Geodetic lat="52.178289822388031" lon="-2.225070975718058" hghtE="64.284394" hghthO="14.731186"/>
+<Grid e="384706.398753" n="253359.863751" hghtE="64.284394" hghthO="14.731186"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000005051" Qxy="-0.0000014105" Qxz="-0.0000000882" Qyy="0.0000089209" Qyz="0.0000005405" Qzz="0.0000003098" MeanError="1.000000" CQ3D="0.003120" CQPos="0.003070" CQHeight="0.000557"/>
+</Point>
+<Point uniqueID="DL14" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916388.487888" y="-152169.571832" z="5015046.072824"/>
+<Geodetic lat="52.178337623322243" lon="-2.225083331698152" hghtE="63.589003" hghthO="14.035746"/>
+</WGS84>
+<Local>
+<Cartesian x="3916388.487888" y="-152169.571832" z="5015046.072824"/>
+<Geodetic lat="52.178337624235702" lon="-2.225083331698153" hghtE="63.589068" hghthO="14.035746"/>
+<Grid e="384705.570347" n="253365.183155" hghtE="63.589068" hghthO="14.035746"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000020600" Qxy="-0.0000034598" Qxz="-0.0000003560" Qyy="0.0000074491" Qyz="0.0000007285" Qzz="0.0000004474" MeanError="1.000000" CQ3D="0.003155" CQPos="0.003084" CQHeight="0.000669"/>
+</Point>
+<Point uniqueID="DL13" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916387.400287" y="-152173.996733" z="5015046.812576"/>
+<Geodetic lat="52.178348195486279" lon="-2.225148586616702" hghtE="63.612279" hghthO="14.058812"/>
+</WGS84>
+<Local>
+<Cartesian x="3916387.400287" y="-152173.996733" z="5015046.812576"/>
+<Geodetic lat="52.178348196399725" lon="-2.225148586616702" hghtE="63.612344" hghthO="14.058813"/>
+<Grid e="384701.111951" n="253366.372884" hghtE="63.612344" hghthO="14.058813"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000011637" Qxy="-0.0000013196" Qxz="-0.0000001045" Qyy="0.0000035809" Qyz="0.0000002375" Qzz="0.0000006048" MeanError="1.000000" CQ3D="0.002313" CQPos="0.002178" CQHeight="0.000778"/>
+</Point>
+<Point uniqueID="DL12" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916387.635152" y="-152174.202390" z="5015047.257641"/>
+<Geodetic lat="52.178348925444460" lon="-2.225151457482860" hghtE="64.112654" hghthO="14.559180"/>
+</WGS84>
+<Local>
+<Cartesian x="3916387.635152" y="-152174.202390" z="5015047.257641"/>
+<Geodetic lat="52.178348926357927" lon="-2.225151457482859" hghtE="64.112720" hghthO="14.559180"/>
+<Grid e="384700.915897" n="253366.454682" hghtE="64.112720" hghthO="14.559180"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000011745" Qxy="-0.0000013193" Qxz="-0.0000000715" Qyy="0.0000035929" Qyz="0.0000001625" Qzz="0.0000006043" MeanError="1.000000" CQ3D="0.002318" CQPos="0.002183" CQHeight="0.000777"/>
+</Point>
+<Point uniqueID="DL11" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916378.949874" y="-152169.963553" z="5015053.461607"/>
+<Geodetic lat="52.178445893727357" lon="-2.225094467409239" hghtE="63.590556" hghthO="14.037086"/>
+</WGS84>
+<Local>
+<Cartesian x="3916378.949874" y="-152169.963553" z="5015053.461607"/>
+<Geodetic lat="52.178445894640809" lon="-2.225094467409239" hghtE="63.590622" hghthO="14.037086"/>
+<Grid e="384704.846232" n="253377.227945" hghtE="63.590622" hghthO="14.037086"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000027869" Qxy="-0.0000016787" Qxz="-0.0000001650" Qyy="0.0000021974" Qyz="0.0000001386" Qzz="0.0000008045" MeanError="1.000000" CQ3D="0.002406" CQPos="0.002233" CQHeight="0.000897"/>
+</Point>
+<Point uniqueID="DL10" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916379.597647" y="-152169.931484" z="5015054.401044"/>
+<Geodetic lat="52.178446484572035" lon="-2.225093631286860" hghtE="64.728794" hghthO="15.175327"/>
+</WGS84>
+<Local>
+<Cartesian x="3916379.597647" y="-152169.931484" z="5015054.401044"/>
+<Geodetic lat="52.178446485485495" lon="-2.225093631286860" hghtE="64.728860" hghthO="15.175328"/>
+<Grid e="384704.903608" n="253377.293484" hghtE="64.728860" hghthO="15.175328"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000028056" Qxy="-0.0000016823" Qxz="-0.0000000507" Qyy="0.0000021917" Qyz="0.0000000423" Qzz="0.0000007901" MeanError="1.000000" CQ3D="0.002406" CQPos="0.002235" CQHeight="0.000889"/>
+</Point>
+<Point uniqueID="DL09" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916375.244893" y="-152168.705961" z="5015056.361726"/>
+<Geodetic lat="52.178488504526854" lon="-2.225078199708110" hghtE="63.581295" hghthO="14.027805"/>
+</WGS84>
+<Local>
+<Cartesian x="3916375.244893" y="-152168.705961" z="5015056.361726"/>
+<Geodetic lat="52.178488505440313" lon="-2.225078199708110" hghtE="63.581360" hghthO="14.027806"/>
+<Grid e="384705.973283" n="253381.963903" hghtE="63.581360" hghthO="14.027806"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000033031" Qxy="-0.0000014603" Qxz="-0.0000001548" Qyy="0.0000019150" Qyz="0.0000000978" Qzz="0.0000010058" MeanError="1.000000" CQ3D="0.002495" CQPos="0.002284" CQHeight="0.001003"/>
+</Point>
+<Point uniqueID="DL08" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916375.900083" y="-152168.674389" z="5015057.329597"/>
+<Geodetic lat="52.178489199311983" lon="-2.225077366631464" hghtE="64.746551" hghthO="15.193061"/>
+</WGS84>
+<Local>
+<Cartesian x="3916375.900083" y="-152168.674389" z="5015057.329597"/>
+<Geodetic lat="52.178489200225449" lon="-2.225077366631464" hghtE="64.746616" hghthO="15.193062"/>
+<Grid e="384706.030487" n="253382.041005" hghtE="64.746616" hghthO="15.193062"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000033195" Qxy="-0.0000014591" Qxz="-0.0000000455" Qyy="0.0000019104" Qyz="0.0000000285" Qzz="0.0000009957" MeanError="1.000000" CQ3D="0.002495" CQPos="0.002287" CQHeight="0.000998"/>
+</Point>
+<Point uniqueID="DL07" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916368.871798" y="-152175.474315" z="5015061.455758"/>
+<Geodetic lat="52.178559920302696" lon="-2.225180687468709" hghtE="63.861287" hghthO="14.307378"/>
+</WGS84>
+<Local>
+<Cartesian x="3916368.871798" y="-152175.474315" z="5015061.455758"/>
+<Geodetic lat="52.178559921216163" lon="-2.225180687468709" hghtE="63.861352" hghthO="14.307378"/>
+<Grid e="384698.989966" n="253389.928889" hghtE="63.861352" hghthO="14.307378"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000035167" Qxy="-0.0000011610" Qxz="-0.0000000705" Qyy="0.0000026419" Qyz="0.0000000488" Qzz="0.0000018438" MeanError="1.000000" CQ3D="0.002829" CQPos="0.002482" CQHeight="0.001358"/>
+</Point>
+<Point uniqueID="DL06" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916369.347273" y="-152175.524406" z="5015062.347032"/>
+<Geodetic lat="52.178561445296744" lon="-2.225181149300709" hghtE="64.857862" hghthO="15.303949"/>
+</WGS84>
+<Local>
+<Cartesian x="3916369.347273" y="-152175.524406" z="5015062.347032"/>
+<Geodetic lat="52.178561446210203" lon="-2.225181149300709" hghtE="64.857927" hghthO="15.303949"/>
+<Grid e="384698.958912" n="253390.098605" hghtE="64.857927" hghthO="15.303949"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000035282" Qxy="-0.0000011544" Qxz="-0.0000000190" Qyy="0.0000026489" Qyz="0.0000000131" Qzz="0.0000018537" MeanError="1.000000" CQ3D="0.002834" CQPos="0.002485" CQHeight="0.001362"/>
+</Point>
+<Point uniqueID="DL05" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916369.629356" y="-152174.486682" z="5015062.169224"/>
+<Geodetic lat="52.178558750436956" lon="-2.225165830372771" hghtE="64.865544" hghthO="15.311681"/>
+</WGS84>
+<Local>
+<Cartesian x="3916369.629356" y="-152174.486682" z="5015062.169224"/>
+<Geodetic lat="52.178558751350415" lon="-2.225165830372770" hghtE="64.865609" hghthO="15.311681"/>
+<Grid e="384700.005465" n="253389.795619" hghtE="64.865609" hghthO="15.311681"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000035404" Qxy="-0.0000011704" Qxz="-0.0000000198" Qyy="0.0000025524" Qyz="0.0000000131" Qzz="0.0000017764" MeanError="1.000000" CQ3D="0.002805" CQPos="0.002468" CQHeight="0.001333"/>
+</Point>
+<Point uniqueID="DL04" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916373.554294" y="-152175.285452" z="5015059.604242"/>
+<Geodetic lat="52.178516552688578" lon="-2.225175270805681" hghtE="65.263386" hghthO="15.709564"/>
+</WGS84>
+<Local>
+<Cartesian x="3916373.554294" y="-152175.285452" z="5015059.604242"/>
+<Geodetic lat="52.178516553602037" lon="-2.225175270805682" hghtE="65.263451" hghthO="15.709565"/>
+<Grid e="384699.345390" n="253385.104155" hghtE="65.263451" hghthO="15.709565"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000031929" Qxy="-0.0000013707" Qxz="0.0000000021" Qyy="0.0000025744" Qyz="-0.0000000017" Qzz="0.0000014785" MeanError="1.000000" CQ3D="0.002692" CQPos="0.002402" CQHeight="0.001216"/>
+</Point>
+<Point uniqueID="DL03" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916361.114033" y="-152183.058896" z="5015071.638229"/>
+<Geodetic lat="52.178668975010467" lon="-2.225295884813429" hghtE="67.331782" hghthO="17.777358"/>
+</WGS84>
+<Local>
+<Cartesian x="3916361.114033" y="-152183.058896" z="5015071.638229"/>
+<Geodetic lat="52.178668975923912" lon="-2.225295884813429" hghtE="67.331848" hghthO="17.777358"/>
+<Grid e="384691.150601" n="253402.082989" hghtE="67.331848" hghthO="17.777358"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000076869" Qxy="-0.0000028920" Qxz="0.0000002002" Qyy="0.0000053924" Qyz="-0.0000001359" Qzz="0.0000034430" MeanError="1.000000" CQ3D="0.004065" CQPos="0.003617" CQHeight="0.001856"/>
+</Point>
+<Point uniqueID="DL02@7" class="reference" subclass="TPS" applicationNumber="1">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916395.439282" y="-152153.875010" z="5015041.620137"/>
+<Geodetic lat="52.178268100252183" lon="-2.224850092230194" hghtE="63.957459" hghthO="14.405000"/>
+</WGS84>
+<Local>
+<Cartesian x="3916395.439282" y="-152153.875010" z="5015041.620137"/>
+<Geodetic lat="52.178268101165642" lon="-2.224850092230194" hghtE="63.957525" hghthO="14.405000"/>
+<Grid e="384721.495000" n="253357.401000" hghtE="63.957525" hghthO="14.405000"/>
+</Local>
+</Coordinates>
+<PointQuality MeanError="1.000000"/>
+</Point>
+<Point uniqueID="DL99" class="control" subclass="positionAndHeight" applicationNumber="1">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916402.062522" y="-152151.269618" z="5015036.617645"/>
+<Geodetic lat="52.178194266949255" lon="-2.224808274796961" hghtE="64.002215" hghthO="14.450000"/>
+</WGS84>
+<Local>
+<Cartesian x="3916402.062522" y="-152151.269618" z="5015036.617645"/>
+<Geodetic lat="52.178194267862722" lon="-2.224808274796961" hghtE="64.002280" hghthO="14.450000"/>
+<Grid e="384724.329000" n="253349.180000" hghtE="64.002280" hghthO="14.450000"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000000000" Qxy="0.0000000000" Qxz="0.0000000000" Qyy="0.0000000000" Qyz="0.0000000000" Qzz="0.0000000000" MeanError="0.000000" CQ3D="0.000000" CQPos="0.000000" CQHeight="0.000000"/>
+</Point>
+<Point uniqueID="DL02" class="control" subclass="positionAndHeight" applicationNumber="1">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916395.439282" y="-152153.875010" z="5015041.620137"/>
+<Geodetic lat="52.178268100252183" lon="-2.224850092230194" hghtE="63.957459" hghthO="14.405000"/>
+</WGS84>
+<Local>
+<Cartesian x="3916395.439282" y="-152153.875010" z="5015041.620137"/>
+<Geodetic lat="52.178268101165642" lon="-2.224850092230194" hghtE="63.957525" hghthO="14.405000"/>
+<Grid e="384721.495000" n="253357.401000" hghtE="63.957525" hghthO="14.405000"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000000000" Qxy="0.0000000000" Qxz="0.0000000000" Qyy="0.0000000000" Qyz="0.0000000000" Qzz="0.0000000000" MeanError="0.000000" CQ3D="0.000000" CQPos="0.000000" CQHeight="0.000000"/>
+</Point>
+<Point uniqueID="DL01" class="control" subclass="positionAndHeight">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<WGS84>
+<Cartesian x="3916395.439282" y="-152153.875010" z="5015041.620137"/>
+<Geodetic lat="52.178268100252183" lon="-2.224850092230194" hghtE="63.957459" hghthO="14.405000"/>
+</WGS84>
+<Local>
+<Cartesian x="3916395.439282" y="-152153.875010" z="5015041.620137"/>
+<Geodetic lat="52.178268101165642" lon="-2.224850092230194" hghtE="63.957525" hghthO="14.405000"/>
+<Grid e="384721.495000" n="253357.401000" hghtE="63.957525" hghthO="14.405000"/>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.0000000000" Qxy="0.0000000000" Qxz="0.0000000000" Qyy="0.0000000000" Qyz="0.0000000000" Qzz="0.0000000000" MeanError="0.000000" CQ3D="0.000000" CQPos="0.000000" CQHeight="0.000000"/>
+</Point>
+<Survey name="DIGLIS LOCK_0" Creator="DARE" SurveyDuration="P0Y0M0DT0H39M49S">
+<TPSCorrection instrumentDetailsID="TPS_2" uniqueID="12" referenceRadius="6378000.000000" offsetCentralMeridian="0.000000" scaleFactorCentralMeridian="1.000000" dryTemperature="12.000000" wetTemperature="8.264283" pressure="1013.250000" refractionCoefficient="0.130000" atmosphericPPM="0.000000" projectionPPM="0.000000" heightReductionPPM="0.000000" individualPPM="0.000000"/>
+<TPSCorrection instrumentDetailsID="TPS_2" uniqueID="22" referenceRadius="6378000.000000" offsetCentralMeridian="0.000000" scaleFactorCentralMeridian="1.000000" dryTemperature="12.000000" wetTemperature="8.264283" pressure="1013.250000" refractionCoefficient="0.130000" atmosphericPPM="0.000000" projectionPPM="0.000000" heightReductionPPM="0.000000" individualPPM="0.000000"/>
+<TPSCorrection instrumentDetailsID="TPS_2" uniqueID="32" referenceRadius="6378000.000000" offsetCentralMeridian="0.000000" scaleFactorCentralMeridian="1.000000" dryTemperature="12.000000" wetTemperature="8.264283" pressure="1013.250000" refractionCoefficient="0.130000" atmosphericPPM="0.000000" projectionPPM="0.000000" heightReductionPPM="0.000000" individualPPM="0.000000"/>
+<TPSCorrection instrumentDetailsID="TPS_2" uniqueID="42" referenceRadius="6378000.000000" offsetCentralMeridian="0.000000" scaleFactorCentralMeridian="1.000000" dryTemperature="12.000000" wetTemperature="8.264283" pressure="1013.250000" refractionCoefficient="0.130000" atmosphericPPM="0.000000" projectionPPM="0.000000" heightReductionPPM="0.000000" individualPPM="0.000000"/>
+<InstrumentSetup uniqueID="TPSSetupID_2_3" tpsSetupMethod="knownBacksight">
+<RawObservation targetPntRef="DL99@8" tpsCorrectionRef="22" meanFace="false" edmKind="none" edmMode="none" atrMode="ATR on" reflectorName="Leica Circ Prism" reflectorConstant="0.000000" inclinationLength="-0.000199" inclinationCross="0.000070"/>
+<RawObservation targetPntRef="DL03" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000234" inclinationCross="-0.000026"/>
+<RawObservation targetPntRef="DL04" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000271" inclinationCross="0.000056"/>
+<RawObservation targetPntRef="DL05" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000278" inclinationCross="0.000032"/>
+<RawObservation targetPntRef="DL06" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000276" inclinationCross="0.000036"/>
+<RawObservation targetPntRef="DL07" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000273" inclinationCross="0.000036"/>
+<RawObservation targetPntRef="DL08" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000270" inclinationCross="0.000028"/>
+<RawObservation targetPntRef="DL09" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000278" inclinationCross="0.000028"/>
+<RawObservation targetPntRef="DL10" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000245" inclinationCross="0.000033"/>
+<RawObservation targetPntRef="DL11" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000240" inclinationCross="0.000038"/>
+<RawObservation targetPntRef="DL12" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000216" inclinationCross="0.000175"/>
+<RawObservation targetPntRef="DL13" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000210" inclinationCross="0.000170"/>
+<RawObservation targetPntRef="DL14" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000232" inclinationCross="0.000125"/>
+<RawObservation targetPntRef="DL15" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000208" inclinationCross="0.000184"/>
+<RawObservation targetPntRef="DL16" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000253" inclinationCross="0.000148"/>
+<RawObservation targetPntRef="DL17" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000102" inclinationCross="-0.000252"/>
+<RawObservation targetPntRef="DL18" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000107" inclinationCross="-0.000245"/>
+<RawObservation targetPntRef="DL19" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000239" inclinationCross="0.000280"/>
+<RawObservation targetPntRef="DL20" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000236" inclinationCross="0.000270"/>
+<RawObservation targetPntRef="DL21" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000240" inclinationCross="0.000272"/>
+<RawObservation targetPntRef="DL22" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000183" inclinationCross="0.000312"/>
+<RawObservation targetPntRef="DL23" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000181" inclinationCross="0.000318"/>
+<RawObservation targetPntRef="DL24" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000003" inclinationCross="0.000295"/>
+<RawObservation targetPntRef="DL25" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000017" inclinationCross="0.000304"/>
+<RawObservation targetPntRef="DL26" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="0.000026" inclinationCross="0.000340"/>
+<RawObservation targetPntRef="DL27" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000298" inclinationCross="-0.000056"/>
+<RawObservation targetPntRef="DL28" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000321" inclinationCross="-0.000082"/>
+<RawObservation targetPntRef="DL29" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000321" inclinationCross="-0.000078"/>
+<RawObservation targetPntRef="DL30" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000250" inclinationCross="-0.000187"/>
+<RawObservation targetPntRef="DL31" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000137" inclinationCross="-0.000254"/>
+<RawObservation targetPntRef="DL32" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000153" inclinationCross="-0.000023"/>
+<RawObservation targetPntRef="DL33" tpsCorrectionRef="22" meanFace="false" edmKind="reflector" edmMode="standard" atrMode="ATR lock" reflectorName="Leica 360° Prism" reflectorConstant="0.023100" inclinationLength="-0.000149" inclinationCross="-0.000023"/>
+<RawObservation targetPntRef="DL34" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000009" inclinationCross="0.000002"/>
+<RawObservation targetPntRef="DL35" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000050" inclinationCross="-0.000128"/>
+<RawObservation targetPntRef="DL36" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000018" inclinationCross="-0.000109"/>
+<RawObservation targetPntRef="DL37" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000042" inclinationCross="-0.000110"/>
+<RawObservation targetPntRef="DL38" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000065" inclinationCross="-0.000098"/>
+<RawObservation targetPntRef="DL39" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000020" inclinationCross="-0.000130"/>
+<RawObservation targetPntRef="DL40" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000011" inclinationCross="-0.000124"/>
+<RawObservation targetPntRef="DL41" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000005" inclinationCross="-0.000121"/>
+<RawObservation targetPntRef="DL42" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000067" inclinationCross="0.000120"/>
+<RawObservation targetPntRef="DL43" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000060" inclinationCross="0.000075"/>
+<RawObservation targetPntRef="DL44" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000043" inclinationCross="0.000084"/>
+<RawObservation targetPntRef="DL45" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000049" inclinationCross="0.000056"/>
+<RawObservation targetPntRef="DL46" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000030" inclinationCross="0.000017"/>
+<RawObservation targetPntRef="DL47" tpsCorrectionRef="22" meanFace="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" inclinationLength="0.000020" inclinationCross="0.000016"/>
+<TPSSetupResult uniqueID="TPSSetupID_2_3">
+<KnownBacksightResults deltaHzDist="0.000000" deltaHgt="0.000000"/>
+</TPSSetupResult>
+</InstrumentSetup>
+<TPSCalibration instrumentDetailsID="TPS_2" compLongitudinal="0.000000000000000" compTransversal="0.000000000000000" verticalIndexError="0.000000000000000" collimHzError="0.000000000000000" tiltAxisError="0.000000000000000" aTRHzError="0.000000000000000" aTRVError="0.000000000000000">
+</TPSCalibration>
+</Survey>
+</HexagonLandXML>
+</LandXML>
