@@ -195,4 +195,3 @@ Basado en la progresión lógica e incremental del conocimiento arquitectónico 
 ## 📝 Notas
 
 - Los materiales de esta asignatura son de carácter estrictamente educativo.
-- Los notebooks incluyen tanto plantillas guiadas en blanco como ejercicios finales resueltos con flujos métricos cruzados de evaluación práctica real.
