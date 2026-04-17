@@ -43,3 +43,6 @@ logs/
 *.log
 temp/
 tmp/
+
+# Variables de entorno
+.env
