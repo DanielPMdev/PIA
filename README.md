@@ -50,8 +50,10 @@ Este repositorio compila los materiales, prácticas completas y desarrollos téc
  ┃ ┣ 📓 HealthCare_DanielPorrasMorales.ipynb
  ┃ ┗ 📋 README.md
  ┣ 📂 UD7_NLP
+ ┃ ┣ 📂 Gradio
  ┃ ┣ 📂 Practica_NPL
  ┃ ┣ 📂 RepasoTokenizer
+ ┃ ┣ 📂 Transformers
  ┃ ┗ 📋 README.md
  ┣ 📂 UD8_Blockchain
  ┃ ┣ 📓 Laboratorio 1 Introduccion Blockchain.ipynb
@@ -111,9 +113,9 @@ Máximo estamento de la Visión Artificial para demarcar topológicamente en bas
 ### 7. Procesamiento de Lenguaje Natural (NLP)
 
 📂 [`UD7_NLP/`](./UD7_NLP/)
-Interpretación matemática vectorial de las palabras o documentos en textos complejos, integrando métricas espaciales para la clasificación o análisis del tono emotivo (ej. Amazon).
-**Conceptos clave:** `Tokenization/Padding` · `Word2Vec` · `Embeddings`
-**Tecnologías:** `NLTK` · `Gensim` · `HuggingFace (Transformers)`
+Interpretación matemática vectorial de las palabras o documentos en textos complejos, integrando métricas espaciales para la clasificación o análisis del tono emotivo (ej. Amazon). Implementación de Transformers, Agentes ReAct y despliegue de modelos con interfaces interactivas.
+**Conceptos clave:** `Tokenization/Padding` · `Word2Vec` · `Embeddings` · `Transformers` · `Agentes ReAct`
+**Tecnologías:** `NLTK` · `Gensim` · `HuggingFace (Transformers)` · `Gradio`
 
 ### 8. Fundamentos de Blockchain
 
@@ -171,6 +173,7 @@ Introducción al paradigma de "Vibe Coding". Orquestación y estructuración de 
 | **Pandas / NumPy**       | Librerías indispensables del tratamiento masivo cruzado, limpieza Nul y array del tensor matemático numérico del proyecto.             |
 | **Matplotlib / OpenCV**  | Visualizaciones dinámicas de pérdida, exactitud, mapas métricos del tumor, recortes bi-dimensionales (cv2) y display.                  |
 | **Gensim / HuggingFace** | Suite avanzada referenciada especializada únicamente en utilidades para distancias vectoriales NLP (Word2Vec) o modelos fundacionales. |
+| **Gradio**               | Desarrollo ágil de interfaces gráficas e interactivas directas desde Python para el despliegue y exposición de modelos IA. |
 | **GitHub Copilot / Agentes IA** | Asistentes LLM de inferencia integrados para el dictado y orquestación arquitectónica bajo el paradigma de Vibe Coding. |
 | **Markdown (Contexto IA)** | Lenguaje semántico estructurado utilizado para el paso de instrucciones, *prompts* definidos y capacidades / *skills*. |
 

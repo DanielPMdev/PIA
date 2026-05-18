@@ -30,6 +30,10 @@ Esta unidad se centra en el campo heurístico del Procesamiento de Lenguaje Natu
 - Capas complementarias del bloque Transformer: *Feed-Forward Network* (ReLU), conexiones residuales (*Add*) y normalización (*LayerNorm*). Arquitectura completa *Encoder-Decoder* con *Masked Self-Attention* y *Cross-Attention* (Q del Decoder, K/V del Encoder).
 - Generación autoregresiva token a token con criterio de parada `[EOS]`, contrastando selección determinista (`argmax`) frente a muestreo estocástico (`random.choice`).
 - Traducción automática ES→EN utilizando el modelo pre-entrenado `Helsinki-NLP/opus-mt-es-en` de HuggingFace (`MarianMTModel` + `MarianTokenizer`), demostrando desambiguación contextual ("banco financiero" vs. "banco de peces").
+- Experimentación con arquitecturas avanzadas y desarrollo de Agentes ReAct (Razonamiento y Actuación) capaces de interactuar con el entorno mediante herramientas externas.
+
+### Interfaces Interactivas (`Gradio/`)
+- Despliegue de modelos y creación de interfaces gráficas web rápidas utilizando `Gradio`. Permite la interacción directa de los usuarios con los pipelines de inferencia (clasificación de textos, traducción, agentes, etc.) mediante inputs y outputs visuales intuitivos.
 
 ## 🛠️ Tecnologías y Librerías
 | Herramienta | Uso en este tema |
@@ -38,6 +42,7 @@ Esta unidad se centra en el campo heurístico del Procesamiento de Lenguaje Natu
 | Gensim (Word2Vec) | Importación y uso heurístico de modelos de incrustamiento de palabras vectorizadas clásicos e investigación semántica. |
 | TensorFlow (NLP Tools) | Capas recurrentes (`RNN`,`GRU`, `LSTM`) empaquetadas o embebidas para arquitecturas multiclase. Transformadores matriciales como Tokenizadores o Padding. |
 | HuggingFace Transformers | Capas introductorias directas de AutoModel, métricas modernas `evaluate` y librerías de `datasets`. Modelo `MarianMT` para traducción automática secuencia a secuencia. |
+| Gradio | Creación de interfaces de usuario web interactivas y amigables para demostrar y consumir modelos de Inteligencia Artificial rápidamente. |
 
 ## 📁 Archivos
 | Archivo | Tipo | Descripción |
@@ -49,7 +54,11 @@ Esta unidad se centra en el campo heurístico del Procesamiento de Lenguaje Natu
 | `comparacionRNNGRULSTM.ipynb` | Notebook | Módulo comparativo arquitectural para afianzar el entendimiento del flujo u olvido del estado cíclico (*state*). |
 | `sequence_classification.ipynb` | Notebook | Inferencia directa y evaluación de conjuntos literarios (IMDB) desde modelos precompilados de plataforma HuggingFace. |
 | `Transformers/practica_transformers.ipynb` | Notebook | Implementación didáctica desde cero de la arquitectura Transformer completa (Embedding → Positional Encoding → Q·K·V → Multi-Head Attention → FFN + Add&Norm → Encoder-Decoder → Generación autoregresiva) y traducción ES→EN con `MarianMT` de HuggingFace. |
+| `Transformers/Actividad_2_Experimentacion_Transformers.ipynb` | Notebook | Experimentación práctica y ajuste avanzado utilizando arquitecturas basadas en Transformers. |
+| `Transformers/Actividad_3_Agente_ReAct.ipynb` | Notebook | Implementación de un Agente ReAct integrando LLMs para el razonamiento lógico iterativo y el uso de herramientas externas de acción. |
 | `Transformers/PracticaTransformers.docx` | Documento | Enunciado y guía teórica de la práctica de Transformers. |
+| `Gradio/gradio_colab.ipynb` | Notebook | Despliegue de interfaces gráficas interactivas para modelos de NLP utilizando Gradio en entornos como Colab. |
+| `Gradio/practica_gradio.docx` | Documento | Enunciado y guía teórica de la práctica para el desarrollo e integración de interfaces con Gradio. |
 
 ## 🔗 Relación con otros temas
 NLP requiere obligatoriamente del dominio y entendimiento vectorizado de la API Secuencial (UD2), con cierta abstracción de las secuencias LSTM/Temporal introducidas ligeramente en UD5 (*Series temporales*).
